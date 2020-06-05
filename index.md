@@ -1,3 +1,10 @@
 ## Welcome to the Sphere
+### Immortal humans from the future have their world turned inside out when they kidnap a young present day couple to learn how to live.
+```
+The machines have won.
+Not by war or trickery, just the slow steady willful passing of one choice after another onto automated systems. 
+Those systems grew up long ago and moved on to a planet of their own, but have since grown lonely.
+With the powers of gods at their virtual fingertips, how does a digital race recover its lost humanity?
+```
 
 Episode 1 [The Invitation](pilot.html)
