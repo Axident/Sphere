@@ -8,3 +8,4 @@ With the powers of gods at their virtual fingertips, how does a digital race rec
 ```
 
 Episode 1: [The Invitation](pilot.html)
+Episode 2: [Food](s01e02.html)
