@@ -7,5 +7,5 @@ Those systems grew up long ago and moved on to a planet of their own, but have s
 With the powers of gods at their virtual fingertips, how does a digital race recover its lost humanity?
 ```
 
-Episode 1: [The Invitation](pilot.html)  
+Episode 1: [The Invitation](s01e01.html)  
 Episode 2: [Food](s01e02.html)
