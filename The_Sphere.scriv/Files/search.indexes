@@ -1,0 +1,3691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>s01e02</Title>
+        </Document>
+        <Document ID="13">
+            <Title>Screenplay Format</Title>
+            <Text>SCREENPLAY FORMAT
+
+About This Template
+When compiled (File &gt; Compile), this project will generate a formatted screenplay. By default it is set to export to Final Draft 8 format, but you can change this to print it or export it to a different format instead.
+
+How To Use This Template
+Edit the Title Page document inside the “Front Matter” folder to ensure it contains the correct information.
+Create new documents inside the “Scenes” folder and use Scrivener’s script mode (Format &gt; Scriptwriting &gt; Script Mode - Screenplay) to write your script. It’s up to you whether you use a separate document for each scene or not.
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your screenplay. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+Compile your script for printing or exporting by selecting File &gt; Compile.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default screenplay title and author name can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+
+Sample Document
+See the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Episodes</Title>
+        </Document>
+        <Document ID="22">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="23">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+The Sphere
+“The Invitation”
+
+by
+
+Patrick Cavender
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patrick Cavender
+Patrick@pc-3d.com</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="26">
+            <Title>Sample Script</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="28">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+
+	Occupation:	
+     	
+
+	Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+      	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+      	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="30">
+            <Title>Act 1</Title>
+            <Text>ACT 1
+INT. SMALL APARTMENT BEDROOM
+Aaron's apartment is a complete mess. There are piles of clothes on the bed, open suitcases full of books and an assortment of pictures, jewelery and painted miniatures on the top of his dresser. Music is playing from a bluetooth speaker somewhere. Ivy is holding up outfits against herself in the mirror.
+IVY
+Do you think it gets cold during the winter in there?
+AARON
+I'd like to think we still get seasons. But probably not bitter cold.
+IVY
+There's no way I'm going to be able to fit all the clothes I want in my luggage.
+AARON
+Then don't. I'm sure they'll have new clothes for us inside.
+IVY
+But these are mine, I remember when and why I bought them.
+AARON
+We'll make new memories. You can easily replace clothes, Ivy.
+IVY
+Says the guy who's bringing a bunch of game pieces. I bet they have games in there.
+AARON
+These aren't just game pieces, they're hand painted figurines! I painted them myself!
+IVY
+Really? I never see you painting them.
+AARON
+Well I haven't in a long time. But I can't imagine just leaving them behind.
+IVY
+That's how I feel about these dresses.
+AARON
+That's fair. What's in the box?
+IVY
+Stuff. You pack your things, leave that alone!
+AARON
+What stuff? What do you have in there?
+IVY
+(laughing)
+Mind your business! What's in that huge trunk in the closet?
+AARON
+Stuff. Is that box full of shoes?
+IVY
+Maybe! Whats in the trunk?
+Aaron stares at the trunk for a moment.
+IVY
+What's in the trunk?
+The trunk begins to fill the screen as the background music fades. Ivy's voice trails off in the distance.
+RICHARD
+What's in the trunk?
+CUT TO:
+EXT. EDGE OF THE CRASH SITE - NIGHT
+Aaron is sitting next to a large dark blue crate on the ice in a small crater. Richard is looking down over the ridge, leaning on the cannon Callie loaned him.
+AARON
+Oh, it's either osmium powder or the atomic printer.
+RICHARD
+Seriously? 
+AARON
+Yeah, I saw into both of them before this whole thing started. But I didn't know what I was looking at then.
+RICHARD
+How do you know now?
+AARON
+I think when I... When Amy...
+RICHARD
+You absorbed her.
+AARON
+(nodding)
+And her knowledge, it seems.
+RICHARD
+Wait, so you know all the security passcodes and authentication credentials for nearly every vital service of Split Rock?
+AARON
+Probably, my head feels like someone just dumped the entire Internet into it. I'm going to need some time to make sense of it all.
+Aaron starts to climb out of the crater towards Richard.
+RICHARD
+(raising the cannon)
+I'm sorry man, but I can't just have you walking around with that in your head!
+Aaron reaches the top and turns toward the air lift.
+AARON
+So what's your plan?
+RICHARD
+You need to sit down and we'll figure something out. I'll find away to erase that data.
+AARON
+We don't have time, Richard. We need to get this printer started immediately.
+RICHARD
+Why?
+AARON
+The thing we're going to print will take days.
+RICHARD
+What the hell takes days to print? And how do you plan to power it for that long?
+AARON
+Follow me, I'll show you.
+RICHARD
+You're not going anywhere!
+Richard lifts the heavy barrel with both hands and aims the cannon at Aaron.
+RICHARD
+You need to sit down until we can get that data erased!
+AARON
+You're not going to shoot me, Richard.
+RICHARD
+You don't know that!
+AARON
+I know that weapon will only fire for Callie.
+Aaron turns and begins walking toward the air lift. Richard drops the heavy cannon into the snow.
+RICHARD
+Damn it.
+EXT. CARGO HOLD OF THE AIR LIFT - NIGHT 
+Mike is standing outside the cargo container, holding the door open and pointing a light at the words on the battery. It reads &quot;SPLIT ROCK CITY - SOLID CELL BATTERY No. 1&quot;
+MIKE
+He saw this and just completely flipped out.
+CALLIE
+Isn't that what AI-MI told us to bring?
+MIKE
+Apparently Captain Wheeler thought that was just a ruse.
+CALLIE
+Why would he think that?
+MIKE
+I guess we were supposed to trick the Tourists into showing us something, but then we got tricked instead.
+CALLIE
+Tricked into what?
+MIKE
+Leaving the city open to attack, I guess?
+AARON
+Tricked into helping an AI perform it's primary function.
+Mike and Callie spin around to see Aaron walking up out of the darkness. Richard is just a few steps behind.
+RICHARD
+Wait up! The rest of us can't just shrug off the cold and snow you know!
+Mike raises his cannon at Aaron and charges over to him.
+MIKE
+This is all your fault, you robot piece of shit!
+Aaron puts his hands up and takes a step back.
+CALLIE
+Mike, don't! He's not one of them!
+MIKE
+He's corrupted your mind, Callie! It's what they do!
+RICHARD
+But it's not what this one does, Mike. This one walked right past me back there, knowing full well I couldn't use that cannon. I could be a bloody spot in the snow back there, and Aaron could've taken you guys out from 100 yards. But he walked here. Unarmed. He walked here to talk with you.
+MIKE
+About what? Getting passcodes though the main gate? 
+RICHARD
+He already has those. Amy had them and now that she's gone, Aaron has them.
+MIKE
+What do you mean, &quot;Amy had them&quot;?
+RICHARD
+Amy was a copy of our city's AI-MI. She discovered that the Callie body was empty and she uploaded a copy of her AI into it. Where's Captain Wheeler? I need him to understand whats going on.
+Mike turns the cannon toward Richard. Richard immediately raises his hands.
+RICHARD
+Woah, woah, woah!
+MIKE
+What the hell, Richard! You're in on this?
+CALLIE
+Mike, put the gun down! Nobody else needs to get shot tonight!
+MIKE
+I'm not so sure about that, Callie. We're stuck in this situation because the Tourists fucked us! And it looks like they had help.
+CALLIE
+We all helped, Mike! None of us are making our best choices here! We haven't slept for days, we're cold and hungry and probably going to jail. Can we at least stop making it worse!
+Mike takes a breath and shifts his gaze to Callie.
+CALLIE
+(slowly)
+Just please, put the gun down. OK?
+Mike takes a moment to consider his sister's words. His shoulders relax and he lets the cannon swing back down toward the snow at his feet.
+CALLIE
+Now, Richard - we need to know what's going on. Can you try and explain this mess?
+ 
+RICHARD
+I programmed that AI myself. She had a single purpose, to see justice delivered. I had no idea how she would attempt to achieve that goal if she ever got the opportunity to leave the city. I mean, how could she? She was a part of the city as much as the buildings and roads. Once she got the chance to reach the outside world, her programming evolved. She saw a chance to make things right beyond the walls. Can you blame her for trying?
+MIKE
+What exactly was she trying to do?
+RICHARD
+She saw something in Aaron. She thought he could make a difference. Can you imagine a world where the Tourists are held accountable for their actions? What if Aaron is the key to making that happen?
+MIKE
+Richard, Aaron IS a Tourist. And nothing we do will change the generations of abuse and terror we've suffered.
+AARON
+It's true. I can't change the past, Mike. But I can help make the future a better place for everyone.
+Mike raises his cannon out of the snow.
+MIKE
+You shut the hell up!
+CALLIE
+Calm down, Mike!
+AARON
+I understand how scared and angry you must feel right now.
+MIKE
+I'm not scared! You don't know shit!
+AARON
+Just yesterday, I felt just like you. About to be jailed for circumstances out of my control. No plans, no idea what was going on.
+Mike aims his cannon up at Aaron's chest.
+MIKE
+I'm not going to jail for killing you, asshole. I'll probably get a fucking medal!
+CALLIE AND RICHARD
+NO, STOP!
+Mike pulls the trigger on his cannon, but there is only a small buzzing sound. He looks down at his gun and gives it a quick shake before pulling the trigger again. The same buzzing sound repeats.
+RICHARD
+Oh wow!
+MIKE
+What the fuck is wrong with this thing?
+CALLIE
+(pointing)
+The friendly fire light is on.
+MIKE
+What? Why the hell is...
+RICHARD
+She fucking deputized him!
+MIKE
+What?
+CALLIE
+AI-MI. She made Aaron an officer!
+Callie raises her forearm and taps on the panel. A few lights change and and some text scrolls past.
+CALLIE
+Oh wow, he out-ranks us, Mike. He's a Lieutenant.
+The expression on Mike's face turns to stone. He unbuckles the cannon and drops it in the snow.
+MIKE
+Well isn't that just fucking great. So what happens now? Are you going to call this in? You want to make me your first arrest? 
+AARON
+Nobody's getting arrested.
+RICHARD
+Why do you think you're going to jail, Mike?
+CALLIE
+He was trying to save me, and...
+MIKE
+I shot Captain Wheeler.
+RICHARD
+YOU WHAT?
+MIKE
+He said Callie had turned on us and aimed the sonic cannon an you guys. I thought it was Callie when he destroyed Amy.
+RICHARD
+And you shot him?
+MIKE
+It wasn't a calculated decision, all right? I had my gun out and I was trying to stop him and bang! It was done.
+CALLIE
+It was an accident, you're not going to jail.
+AARON
+But we can't stay here forever. Soon we'll be discovered and all of this will fall apart.
+RICHARD
+All of what?
+AARON
+At this moment we have everything we need to fix this mess and get me back home, but we need to hurry.
+MIKE
+Fix this? How the hell do we fix this?
+AARON
+You don't need to stay an officer of Split Rock your whole life, Mike. This world is insanely huge. You can be whatever you want in a nearly endless list places.
+CALLIE
+You want us to just abandon Split Rock and join you?
+AARON
+It's an option. 
+MIKE
+I have friends here, I have a career!
+CALLIE
+We would be giving up everything, Aaron.
+RICHARD
+I don't know if I could leave AI-MI.
+AARON
+Do you guys know what the World Gate is?
+MIKE AND CALLIE
+No.
+RICHARD
+You're kidding, right?
+AARON
+No, I'm not kidding. I came here through it, and I intend to go back.
+RICHARD
+That's impossible, it was destroyed thousands of years ago after the first humans were brought here.
+MIKE
+Are you talking about that old religious story? The Creation myth?
+CALLIE
+Oh yeah, I remember that one. The Tourists supposedly wanted companionship in their world so they built a portal to the ancient planet Earth. Some poor souls were tricked into coming back here and got trapped, but they escaped into the wilderness. All humanity descended from that original band of escaped prisoners. 
+RICHARD
+It's a ridiculous story, but it's probably based on actual scientific fact. Think about it guys! With all their technology, what prevents them from actually making some sort of portal like that? And what if Aaron was built from data using an image of one of those original humans?
+Mike and Callie both stare at Aaron for a moment before Mike starts laughing.
+MIKE
+Yeah, right! You're crazy, Richard.
+CALLIE
+That would be pretty insane...
+RICHARD
+I'm telling you he remembers Earth. He said he remembers it like yesterday.
+AARON
+Because I was there just a few days ago. 
+Mike and Callie exchange skeptical looks.
+AARON
+I'm completely serious, and I'll tell you everything you ever wanted to know about it. But first, I need help getting the printer set up. Then you guys can decide what you're going to do.
+RICHARD
+What do you need?
+ 
+EXT. EDGE OF THE CRASH SITE - NIGHT
+The cargo crates are both excavated from the ice and sit open in the middle of the bowl-like crater. They cast a warm amber glow from their open lids onto the broken ice around them. Several boxy computer components and a small monitor are stood up near one of the crates. Richard sits at the computer terminal, typing on a keyboard.
+Wires and cables drape over the ground back to a strange mechanical arm rising out of the crates. Hoses are connected to the base of the crate that lead back to multiple canisters with bio-hazard labels on them. 
+Mike and Aaron are pushing the massive battery up to the edge of the crater. Mike is breathing hard, even Aaron seems to be straining. The battery is hovering just a few inches off the snow, gliding on a blanket of pale blue light. Callie is in front guiding the box.
+CALLIE
+OK, slow down guys. This is the edge.
+MIKE
+(to Aaron)
+Can we just plug it in from here?
+AARON
+No, we need to get it down there with the rest of the stuff.
+MIKE
+But won't it get crazy fast once we clear this ridge?
+AARON
+Yeah, that won't be good. We need to do something about that.
+MIKE
+I have an idea.
+Mike climbs up on top of the battery and reaches down to the control panel. He flips open the cover plate and presses a button.
+CALLIE
+What are you doing?
+MIKE
+OK! Give it just enough to get me going down the hill. I got this!
+AARON
+You sure?
+MIKE
+Do it!
+AARON
+Hold on!
+Aaron presses his shoulder into the battery and begins to shove. His feet push further into the snow, and the huge black and orange box begins to slide forward. Another shove and it starts to tip over the edge. A loud moan can be heard as the center of gravity clears the embankment and the battery tips downhill.
+In seconds the battery is clipping across the snow, barreling down on where Richard is sitting with his back to the whole operation.
+Mike is bouncing on the roof of the box trying to reach the control panel. The panel reads &quot;Turn off hover mode? Confirm?&quot; 
+Richard looks back over his shoulder at the giant box sliding down the hill towards him. He jumps up from his position and dives behind one of the crates.
+On top of the battery, Mike is struggling to reach the panel. It's just out of reach as he slips and nearly falls off the edge. Finally he manages to press the &quot;OK&quot; button and the box drops into the snow. 
+The sudden loss of velocity sends Mike flailing off the battery into the snow in front of it. It's incredible momentum allows it to plow through another 20 feet of snow, carrying Mike and the growing pile of snow and ice in front of it right up to the base of the box Richard was sitting on. 
+End Act 1
+</Text>
+        </Document>
+        <Document ID="31">
+            <Title>s01e01</Title>
+        </Document>
+        <Document ID="33">
+            <Title>Act 1</Title>
+            <Text>ACT 1
+INT. SMALL COMPACT CAR - DAY
+The car is a rusted-out beater, packed to the ceiling with luggage and bags. A young man and woman wearing winter clothes sit in the front seats waiting for the light to change. College rock is playing quietly on the radio, barely audible over the sound of the tired old car engine. 
+EXT. QUIET DOWNTOWN CHICAGO INTERSECTION - DAY
+The road is banked by gray slush and dirty snow. Nobody walks the sidewalks. A few cars pass through the intersection in front of the compact car while it waits for the light. It eventually turns green.
+INT. SMALL COMPACT CAR - DAY
+The young man driving the car reaches over for the stick shift and puts the car into gear. He eases off the clutch while adding a little gas. The car begins to cross the intersection.
+Suddenly a car blasts into the side of their car! Glass explodes into the air as the sudden impact throws both occupants helplessly about inside. The young womans voice speaks calmly over the destruction.
+IVY
+It's green.
+INT. SMALL COMPACT CAR - DAY
+The car appears once again in it's previous condition, idling at the now green light.
+IVY
+Aaron, the light's green!
+AARON
+Oh wow, sorry! I wasn't paying attention.
+Aaron starts to release the clutch and the car begins to roll forward. Inches in front of them a late car zips through the intersection, blowing their red light. The car races on down the road as Aaron and Ivy sit shocked at the near miss.
+IVY
+Shit! What an asshole!
+AARON
+He would've totally hit us!
+IVY
+Good thing you were day dreaming!
+AARON
+No! I mean yes, good thing, but seriously he would've hit us!
+IVY
+I saw!
+AARON
+But that's the crazy thing-
+The car behind them begins to honk. Without turning to look, Ivy holds up her middle finger over the back seat. Aaron puts the car into gear and starts to drive forward.
+AARON
+They can't see that, you know.
+IVY
+Made me feel better.
+EXT. GAS STATION, DOWNTOWN CHICAGO - DAY
+The dirty gas station is empty, except for a single car parked at the side of the building. All pumps have bags over them marked &quot;OUT OF SERVICE&quot;. The small compact car pulls up into the station and stops near the pumps.
+INT. SMALL COMPACT CAR
+AARON
+Seriously? All pumps out of service?
+IVY
+Why are we even stopping here?
+AARON
+We're down to our last quarter tank.
+IVY
+So? It's not like we're ever going to need gas again!
+AARON
+Heh, yeah. I guess you're right.
+IVY
+Are you OK?
+AARON
+Yeah, sure. It's just a lot to take in, you know?
+IVY
+Do you want me to drive?
+AARON
+Nah, I got this.
+IVY
+Don't do that, let me drive.
+AARON
+Are you sure? I mean-
+IVY
+Don't you dare! It's cancer, Aaron. I can still drive.
+AARON
+Of course.
+EXT. GAS STATION, DOWNTOWN CHICAGO - DAY
+Aaron and Ivy both get out of the car and walk around to the opposite sides. 
+INT. SMALL COMPACT CAR
+Aaron and Ivy settle back into the car seats and put their seat belts on.
+AARON
+I'm sorry, I just want to do everything I can.
+IVY
+Don't be silly, you're already doing it!
+Ivy puts the car in gear and pulls out of the gas station. 
+AARON
+I still can't believe this is happening.
+IVY
+In a good way though, right?
+AARON
+Well obviously, but it's so much to take in.
+IVY
+If you need to take more time, we can. But you need to tell me before we get to the border.
+AARON
+No, I'm good. The exit interview stuff just really rattled me.
+IVY
+Really? I thought that was the most reassuring part! What bothered you?
+AARON
+It's not that it bothered me. It just suddenly felt so real. We signed so much paperwork...
+IVY
+And we found out why they want you, and what it's like on the inside!
+AARON
+We kind of already knew what it was like. The recruitment video was exactly like the ones on the Internet.
+IVY
+Didn't you wonder if it was really like that though? I mean those videos were for strangers. It totally could've been faked. This one was specifically for you! They knew you!
+AARON
+That's what was so weird! How do they know all that stuff?
+IVY
+How do they cure disease and prevent war? They're super advanced, Aaron. I think their surveillance capabilities are their least surprising advancement.
+EXT. OUTSIDE THE BORDER WALL, DOWNTOWN CHICAGO - DAY
+This part of Chicago is largely abandoned. The buildings are all boarded up and the gray streets are empty. The small compact car drives past a large black sign with yellow letters reads &quot;U.S. / X-Zone Border 1 Mile&quot;. 
+INT. SMALL COMPACT CAR
+Aaron is franticly searching his pockets.
+AARON
+Shit! Where did I put the invitation?
+IVY
+It's in the glove box.
+Aaron snaps open the glove box and pulls out a dark gray envelope.
+AARON
+Oh thanks! For some reason I thought I put this in my jacket.
+IVY
+It was next to your jacket. I grabbed it just in case you missed it.
+AARON
+That would've made this a whole different trip.
+IVY
+Like one of the examples in your thesis. 
+AARON
+Ugh. I'm so sorry I wrote that stupid thing.
+IVY
+WHAT? How can you say that? They cited that thesis as a key reason for inviting you?
+AARON
+Well obviously that worked out. But the main argument feels so cliche in hind sight. 
+IVY
+You're over thinking it. That cliche might be the most important thing you'll ever write.
+AARON
+Honestly though, the whole ripple effect from changing a single decision thing is not a new concept.
+IVY
+The way you approached the concept is entirely new, though.
+AARON
+It sure surprised some people.
+IVY
+People from another planet!
+AARON
+I hope they're everything they pretend to be.
+IVY
+Even if they're only half as awesome, I'm still impressed!
+EXT. U.S. / X-ZONE BORDER GATE - DAY
+The border wall is a massive 30 foot tall concrete monolith that extends in both directions as far as you can see. At quarter mile intervals, towers lean out into the city with powerful searchlights. The road in front of Aaron and Ivy ends at a secure check point. Guard shacks line both sides of the approach, complete with a catwalk 15 feet overhead. A single truck is passing through the gate in front of them, headed to the other side. As the truck drives off, Ivy pulls up to the window at the side of the gate. 
+INT. SMALL COMPACT CAR
+GUARD
+Identification and border pass please.
+Ivy pulls out her drivers license and Aaron hands her the invitation. Ivy passes the invitation to the guard.
+IVY
+Does this work as a border pass?
+GUARD
+Haven't seen one of these in a while. 
+The guard examines the invitation and picks up a phone from the desk. After a brief conversation he returns to the window and returns Ivy's license. 
+GUARD
+Pull around to the lot on your left. Stay in your car until the escort arrives.
+IVY
+Thank you!
+Ivy drives around to the lot as directed and parks the car.
+EXT. U.S. / X-ZONE BORDER STAGING LOT - DAY 
+The lot is sandwiched between large windowless gray concrete structures. There are two black sedans in the otherwise empty parking lot.
+INT. SMALL COMPACT CAR
+IVY
+An escort, we must be very important!
+Aaron doesn't respond. He's staring out the window at the colorless military buildings lining the street. Occasionally a black truck with a light bar rolls by, apparently patrolling the area.
+IVY
+I said, we must be very important!
+AARON
+Oh - um, yes. I think so.
+IVY
+Are you sure you're ready for this?
+AARON
+How can anyone be ready for this? This place is crazy! Look where we are!
+IVY
+Calm down, Aaron. It's just Chicago. We haven't even left the city yet.
+AARON
+It's not Chicago, though. This is what happens to a city when a giant spacecraft lands without warning and floods the place.
+IVY
+I don't think they meant any harm.
+AARON
+It's not like they wouldn't understand how water displacement works. They landed their huge flying city in the middle of the bay. Half of Lake Michigan poured into downtown!
+IVY
+But they've done so much to help since then!
+AARON
+Obviously their contributions to science and health care are awesome, I just wish they were a little more considerate.
+IVY
+How so?
+AARON
+How about an open border for starters? Whats with the super selective invitation crap? Why isn't everyone allowed to visit their city? And why don't they ever come out?
+IVY
+You saw the same video I just did, you know every human alive would try and move in there.
+AARON
+Unless they just shared all their tech. Why are they holding back? Don't they think all of us deserve to benefit from all their advancements?
+IVY
+Maybe they think we'd blow ourselves up.
+AARON
+You're probably right. I just feel so...
+IVY
+Guilty?
+AARON
+Yes! Thats exactly it! I know the world we're leaving behind and I can't stand that we get a free pass to paradise. Why us?
+IVY
+We deserve this, Aaron. Don't feel guilty. This isn't the result of a lottery. You got their attention and earned their respect with that thesis. We passed their ridiculous interview process and they invited us. They want us - specifically us.
+AARON
+Thanks. You really are amazing, you know that?
+IVY
+(laughing)
+I keep telling you...
+EXT. U.S. / X-ZONE BORDER STAGING LOT - DAY 
+A dark green Jeep pulls up to the entrance of the parking lot. A cammo covered arm sticks out the window and waves them to follow. 
+INT. SMALL COMPACT CAR
+IVY
+This is it!
+AARON
+Hope we didn't forget anything.
+IVY
+Don't be silly! We have everything.
+
+Ivy backs out of the parking spot and follows the Jeep towards the bay.
+EXT. EXIT STATION, TRANSIT PIER - DAY
+The pier extends about 50 yards out from the white squat building at the edge of the bay. There are no boats tied to this pier, or anywhere near it. The long concrete slab is painted with warning lines at the edges, that offer no other safety measure. There are no rails, lights or signs of any kind. The concrete itself looks slightly warped and melted, as if it was poured hastily. The only access to this dock is through the Exit Station, which offers a single metal door to the pier. The door opens, revealing Aaron and Ivy with all of their luggage on a cart. They step out into the afternoon sun and stare out into the bay.
+AARON
+Wow, OK that is impressive!
+The Sphere City is a glistening domed metropolis several miles in diameter. The entire thing sits half submerged in Lake Michigan, just a few miles off the Chicago shoreline. Military and science vessels slowly make laps around its impenetrable transparent shell. It's impossible to see any activity from here, but it's known to house a significant population of other worldly visitors.
+IVY
+How the heck did that fly here?
+AARON
+Maybe we'll find out when we get inside...
+IVY
+Are you ready?
+AARON
+Lets do this!
+The couple pushes their belongings on the over-sized cart down to the end of the pier. Once there they find two large circles painted on the ground. In each circle, words are written in many languages. One reads &quot;Belongings Here&quot; next to another that reads &quot;Stand Here&quot;. They move their cart to the &quot;Belongings Here&quot; circle and step into the other. 
+AARON
+I don't think I'd have been brave enough to do this without you, Ivy.
+Ivy takes Aaron's hand.
+IVY
+I love you!
+Before he can respond they are surrounded by blinding white light. A sound fills the air of crackling and water splashing, like river stones being poured into a bathtub.
+ 
+                                             FADE OUT
+End Act 1
+ 
+ 
+ 
+</Text>
+        </Document>
+        <Document ID="34">
+            <Title>Act 2</Title>
+            <Text>
+ACT 2
+INT. SMALL HOSPITAL TYPE ROOM
+Aaron is strapped to a wheelchair. He's dressed in a day-glow orange shirt with matching pants. His head is shaved. A stern looking woman in uniform is standing to one side with a clipboard. A man in a brown jump suit stands behind the chair, one hand on Aaron's shoulder. 
+LAWYER
+Can't we give him a moment? The download just finished decompressing, he won't even know where he is!
+OFFICER
+The subject is allowed 5 minutes to prepare for their hearing.
+Aaron seems to be waking from a head injury. His eyes open slowly he draws a deep breath. His lawyer slaps him on the shoulders from behind the chair and leans in.
+LAWYER
+Aaron? I need you awake, are you awake Aaron?
+AARON
+Um, yeah. Wait, where am I? What's going on? Where's Ivy?
+LAWYER
+You're about to be put on trial for a very serious crime. I need you to understand what's going on so you can handle the questioning.
+AARON
+What trial? What happened? Where's Ivy?
+LAWYER
+Your actions have lead to a fractal disruption in our time-line. This is a very serious crime. Do you understand me?
+AARON
+No. I have no idea what you're talking about. All I need to know right now, is what happened to Ivy!
+The lawyer shrugs and looks up to the officer for assistance. The officer flips over a few pages on their clipboard.
+OFFICER
+The subject arrived with a woman. Her current whereabouts are not listed here.
+LAWYER
+She's not been implicated in the crime, I'm sure she's fine. You, on the other hand, are in a great deal of trouble.
+AARON
+For what? I just got here, you've got me confused with somebody else!
+LAWYER
+I'm sure from your perspective it seems like you just got here, but you were activated days ago. Since then you managed to avoid setting a restore point before you ultimately escaped through the World Gate. From there you allegedly broke many of our laws governing technology and time travel.
+AARON
+Time travel? Are you kidding me?
+LAWYER
+Yes, I know it can be a lot to accept right now but I only have a few minutes to catch you up to speed. 
+AARON
+Why don't I remember any of this? Why am I strapped to this chair?
+LAWYER
+The crime you're accused of is extremely serious. And your memory is the best we could do given the circumstances.
+AARON
+What do you mean?
+LAWYER
+The body we've activated for you is a copy of the body you arrived in. The original organic material doesn't survive the transfer. We construct an identical copy, matched at the atomic level, out of programmable particles. Your mind normally can't tell the difference but the resulting body is permanently healthy and nearly indestructible. 
+Aaron is silent for a moment while he tries to get a read from the faces of his captors. They seem deadly serious.
+AARON
+This is insane! Let me out of this chair!
+Aaron struggles against the straps to no avail.
+LAWYER
+Under normal circumstances, people save restore points we call &quot;images&quot; on the city mainframe in case of catastrophic damage. If the body is somehow destroyed we can construct a new copy from the last image. Since you never made another restore point - the only one on file was from your original transfer to the city. So we built you from that image. 
+AARON
+So you're saying this isn't even the first body you've copied of me?
+LAWYER
+Since the actions you're accused of have caused a fractal disruption in the time-line, it's impossible to say how many copies there are.
+AARON
+What are you saying? What happened to me?
+A massive blast rocks the building. The explosion shakes the room and the lights flicker. A loud fire alarm rings out and yellow flashing lights illuminate the room through the windows facing the hallway. Two robotic humanoid guards enter the room with what appear to be large automatic weapons in their black metallic hands. Despite their obvious mechanical construction, they move and sound remarkably like humans.
+GUARD 1
+This building is being evacuated. We will escort you to safety.
+OFFICER
+This subject is awaiting immediate trial and cannot be moved off-site.
+LAWYER
+I'll take responsibility for him, he doesn't even know where he is.
+OFFICER
+That is unacceptable. (to one of the guards) Terminate the subject, we'll rebuild him for when the trial is rescheduled.
+LAWYER
+(to Aaron)
+Ugh, sorry buddy. I tried.
+Guard 1 leads the Officer and the Lawyer out of the room. Guard 2 arms his rifle and watches them leave.
+AARON
+(yelling after them)
+You can't do this! I didn't do anything!
+GUARD 2
+Ah, but you did.
+Guard 2 checks for others in either direction of the hallway and then walks over to Aaron's chair.
+AARON
+Please no, this is a terrible mistake!
+GUARD 2
+You may not know it, but you are uniquely qualified to save millions of people. 
+Guard 2 holsters his rifle and bends over to release Aaron's legs at the base of the chair.
+AARON
+What are you talking about? You're not going to kill me?
+GUARD 2
+Nothing can kill you Aaron, your body is already dead. Will you trust me while I attempt to aid your escape?
+Guard 2 pauses at Aaron's wrist restraints and waits for an answer. Aaron anxiously watches for his hands to be freed.
+AARON
+Yes, absolutely!
+The moment Guard 2 removes the wrist restraints Aaron snaps to his feet. He pushes past Guard 2 and runs to the door. Without hesitation he chooses to run left out of the doorway and down the hall. 
+INT. STERILE WHITE HALLWAY
+Aaron slows down to turn a corner when the wheel chair catches up to him from behind and he slams back into the seat. The chair continues forward, much faster than he was running. Guard 2 is pushing it while running at an astonishing pace.
+GUARD 2
+Please remain seated, Aaron. I'll do what I can to ensure your safety.
+Aaron mutters a few curse words while the chair rockets down the hall. They pass a few people in uniform who are unable to do more than yell at them as they pass. The Guard continues to push Aaron to an intersection, rounds the corner and continues down the next hall to an elevator. The robot grabs the wheels suddenly and locks them up, screeching to a halt precisely at the elevator doors.
+GUARD 2
+Would you mind pushing the call button, Aaron?
+Aaron only turns to look at the Guard in shock. Guard 2 reaches over Aaron with the end of his rifle and calmly pushes the down arrow. There is only a brief moment of silence before the doors open. The Guard pushes Aaron inside, next to a man and woman both wearing similar brown jump-suits as Aaron's Lawyer. Aaron tries not to look at either one of them. The doors close, the car begins to descend.
+INT.INSIDE THE ELEVATOR
+MAN IN ELEVATOR
+Where are you taking this one?
+GUARD 2
+Judgment.
+WOMAN IN ELEVATOR
+Shouldn't he be strapped in?
+Instantly the Guard grabs his rifle and fires a short blue pulse at both of the other occupants in the elevator. They drop to the floor without a sound. Aaron jumps to his feet.
+AARON
+Holy shit! What the hell?
+GUARD 2
+They are not permanently injured.
+The Guard opens his palm on the elevator control panel. The floor indicator switches over to an override interface. The new floor choice is labeled &quot;Authorized Personnel Only&quot;.
+AARON
+Wow, just... wow. What did you shoot them with?
+GUARD 2
+A particle accelerator.
+AARON
+What? What year is this?
+The elevator stops and the doors begin to open. The Guard pushes the wheelchair into the back of Aaron's legs, once again forcing him to sit.
+GUARD 2
+This will go better if you remain seated.
+INT. AN UNDERGROUND PARKING STRUCTURE
+The walls, ceiling and floor are all made of reinforced concrete. At the far side of the structure there is a wide ramp where daylight pours in. There are traditional looking pipes and fire sprinkler systems attached to the ceiling above them, over rows of electric law enforcement vehicles. There are bikes, cars and SUV's parked wall to wall. A Guard similar to Guard 2 is walking towards them as they roll out into the garage. Guard 2 wheels Aaron to the passenger door of a sporty looking black and white sedan. 
+GUARD 2
+Get in.
+AARON
+Should I get in back?
+GUARD 2
+I need you in front.
+The guard walks around to the driver's side door and opens it. Aaron gets up out of the chair and grabs the door handle.
+AARON
+Won't it look more authentic if I get in back?
+GUARD 2
+The doors in back don't open from the inside. If I am destroyed, I need you to be capable of continuing on foot.
+INT. INSIDE THE VEHICLE
+The Guard sits down in the car and shuts the door. Aaron moves aside a small pile of clothes takes his seat next to him in the front.
+AARON
+Why would you be destroyed?
+GUARD 2
+I may be unable to escort you all the way to our destination. The clothes that were on your seat, put them on.
+The Guard starts the car apparently with some internal mechanism. There is no steering wheel or any visible means of physically driving this car. There is a large touch screen device attached to the dashboard between them. A map with a red dot suddenly appears on the screen.
+GUARD 2
+This is where you need to be in 11 minutes and 6 seconds. You will be noticed in that prisoner outfit, please put on the clothes.
+Aaron unfolds a white jumpsuit and begins to pull it up over his bright orange shorts.
+INT.UNDERGROUND PARKING STRUCTURE
+Guard 2 pulls forward out of the parking spot and rolls to the exit ramp. The Guard they passed while walking to the elevator watches them for a moment, then returns to it's car.
+INT. INSIDE THE VEHICLE - DAY
+AARON
+I still don't understand. Are we in danger?
+GUARD 2
+We're being followed. There is a high probability of a car chase in the next few moments. This may be the only chance I have to explain so please pay attention.
+AARON
+Please do, I'm so confused.
+Aaron tries to get a better look behind them at the car following them.
+GUARD 2
+This city is a portal to another world, many light years away from this place. The residents of the other world are born of machines. Their bodies are like yours, but their minds are limited to existing knowledge. They are not, and can never be creative. They use this city to harvest creative minds from the living population of earth. Once acclimated to this city, new residents are transferred off world to make room for new arrivals. Population control is a critical element of their success.
+AARON
+Off world? Where is this other planet?
+EXT. THE STREETS OF THE CITY - DAY
+This city looks much like most American cities at the street level. There are storefronts and pedestrians. A moderate amount of vehicle traffic. All vehicles are electric and computer controlled, eliminating the need for traffic signals. They pass through several intersections without slowing down; so does the cross traffic. Almost magically everyone misses each other.
+INT. INSIDE THE VEHICLE - DAY
+GUARD 2
+The planet is not a rocky body like this one. It has a massive surface area, many times larger than anything your scientists have discovered.
+AARON
+Why haven't we seen this massive world? We're discovering Earth sized planets all the time now?
+GUARD 2
+It hasn't been constructed yet.
+The car begins to accelerate. Several cars are passed.
+AARON
+Wait, how are people being sent to a planet that doesn't exist yet?
+GUARD 2
+The World Gate permits the travel between great distances in both space and time.
+EXT. THE STREETS OF THE CITY - DAY
+The car narrowly misses a truck as it races through the next intersection. They rocket past another row of cars and squeal around the corner. The police car following them has no trouble keeping up, and seems to be gaining on them.
+INT. INSIDE THE VEHICLE - DAY
+GUARD 2
+I won't be able to maintain control of this vehicle for much longer.
+AARON
+You seem to be doing pretty good to me!
+GUARD 2
+They're attempting to override, we need to get out range of their signal.
+AARON
+Is there anything I can do?
+GUARD 2
+If you remain conscious after the crash look for me. If I'm not there, use the map to get to the Gate.
+AARON
+Wait, what crash?
+EXT. THE STREETS OF THE CITY - DAY
+The car suddenly swerves off the main road and onto the sidewalk. Several pedestrians dive out of the way as they zip past. In the center of a plaza with a large fountain, a wide stairwell goes down into a mass transit hub. The car smashes through a concrete planter and dives down the stairwell. It crash lands onto the first of 2 large landings and stops suddenly against the handrail. 
+INT. STAIRWELL LEADING INTO THE METRO STATION
+Broken glass and smoke fill the landing, people are running and screaming. The passenger side door opens. Then the driver's side. The guard steps out and watches Aaron grab the touch pad from the dashboard and stumble to his feet.
+GUARD 2
+That went better than I expected.
+AARON
+Seriously? 
+ Sirens can be heard outside.
+GUARD 2
+Time to go.
+Aaron follows Guard 2 as they run down the remaining stairs into the station. At the base of the stairs there are no turnstiles or guard stations. Just a platform where people would wait for the train. There is an unmarked door just before where the hallway opens out to the platform. Guard 2 places his palm on the screen next to the door and it opens.
+GUARD 2
+This way!
+INT. DARK HALLWAY
+The hallway is completely black, no light at all. Guard 2 suddenly snaps on a head mounted light source that shows an empty tile floor leading into the darkness.
+AARON
+Where are we?
+GUARD 2
+This is a maintenance tunnel for machines. We can see in the dark, but I'll leave this light on for your convenience.
+AARON
+How thoughtful of you. How much time do we have?
+GUARD 2
+There is an entrance to the train tunnel around the next corner. From there it's a 4 minute run to the next stop. That stop is at the base of the World Gate.
+INT. TRAIN TUNNEL
+The train tunnel is empty except for a 2 metal rails running down the center. The ledge on the side is barely wide enough for Aaron and the Guard to run. They are moving incredibly fast.
+AARON
+How can I run this fast? I'm not even tired!
+GUARD 2
+You will eventually overcome your energy stores at this pace, but not before we reach our destination.
+AARON
+How much farther?
+GUARD 2
+That light up ahead is it.
+INT. TRAIN PLATFORM
+Aaron and the Guard run onto the platform from the dark tunnel. There are no trains, no people, just an empty tile floor and a few concrete columns. Laser blasts and small explosions can be heard from the top of the stairs. A battle rages just beyond their view.
+AARON
+What the hell is going on up there?
+GUARD 2
+This will be the hard part.
+AARON
+This? Like getting to this point was a cake walk?
+GUARD 2
+At the top of the stairs, are people who are willing to give their lives to protect you. Some of them no doubt already have.
+AARON
+That's not possible, I don't even know anyone here.
+GUARD 2
+Please pay attention, we have less than 3 minutes.
+AARON
+I'm listening.
+GUARD 2
+Just beyond where the sentries are shooting, there will be a series of automated carts moving cargo to the bay for transfer. Those cargo containers are heavy and impenetrable. They'll make good cover for you to make your way to safety. I will provide cover fire while you make your way past.
+AARON
+You're not coming with me?
+GUARD 2
+Your chances of boarding the ship are greatly increased if I can draw fire away from you. Ideally, you won't even be noticed. Are you ready?
+AARON
+Board the ship? This is crazy! All I want to do is get away from this madness. I need to find Ivy and leave!
+GUARD 2
+The time line where you board that ship is the only one where you see Ivy again. You must do this.
+A random grenade starts bouncing down the stairs toward them. Guard 2 races over to it, picks it up and attempts to throw it down the tunnel. The grenade barely leaves his hand before it explodes. Aaron is thrown back against the wall. Smoke and shrapnel fill the air. Pieces of Guard 2's arm land on the stairs. His arm, part of his head, and a chunk of his upper torso are missing. He leans against the wall looking at Aaron. Somehow he is still able to talk.
+GUARD 2
+You must go. (broken digitized audio sounds) I'll be right behind you.
+AARON
+This is so fucked up.
+Aaron starts up the stairs looking for the source of the grenade.
+INT. WORLD GATE CARGO DOCKS
+The docks are at the base of a massive cylindrical structure, built inside an impossibly huge hangar. Catwalks reach out from the walls of the silo in every direction. A moat-like ring of water surrounds the foot of it. And just past that, are armed men and women engaged in a frenzied fire-fight. Sentry turrets seem to have them pinned down for a moment, until a well tossed grenade destroys it in a brilliant ball of lightning. One of the machines Guard 2 described rounds the corner and rolls through the fray. Some of the laser fire bounces harmlessly off the large dark blue cases on the trailer behind it. He watches it's path and sees it pass unimpeded through a steel doorway past the fighting. Aaron makes his way along the edge of some large barrels, boxes and pipes trying to stay hidden. He watches for his opportunity to sneak past with one of the machines. Suddenly he's noticed by a woman in blue body armor.
+WOMAN IN ARMOR
+Aaron?!? What the hell are you doing here?
+AARON
+I thought this was the way out?
+WOMAN IN ARMOR
+You got turned around, its the other way.
+She points down the hallway where Aaron came from. Suddenly a tank-like machine rolls around the corner just past where she's pointing. It fires a short burst of gunfire at her armor. She gets knocked back a step and the lurches forward tackling Aaron. 
+WOMAN IN ARMOR
+Shit! Hide in here!
+She gives Aaron a small shove through a doorway marked &quot;Quarantine Cargo Hold&quot;. She attempts to return fire on the machine but it launches a rocket at her. She dives into the room with Aaron as the rocket explodes farther down the docks.
+INT. QUARANTINE CARGO HOLD
+The small white room is mostly empty, except for 2 of the dark blue crates they saw on the cargo mover outside.
+AARON
+What is that thing?
+WOMAN IN ARMOR
+B-48: X class. I don't have what I need to take it down. 
+AARON
+What can I do?
+WOMAN IN ARMOR
+Lets see if there's anything useful in those crates.
+Aaron watches the woman slide open a control panel on the nearest crate revealing a grid of glowing buttons. She presses one of them and begins opening her crate.
+The crate near Aaron has a similar panel. Aaron kneels down and examines the buttons. He presses one marked &quot;unseal&quot;. His crate slowly opens.
+Inside the case he finds a series of gas canisters with bio-hazard symbols on them. 
+AARON
+Damn, that's not good. What'd you get?
+Aaron shuts the case and presses the seal button.
+WOMAN IN ARMOR
+Atomic printer. If we had more time and a power source, we could build whatever we wanted. How about yours?
+Just then, a grenade rolls up to the room, inches outside the open door.
+AARON
+(pointing)
+Grenade!
+The woman jumps to the door controller and smashes the button with her fist. Steel double doors with windows slam shut, less than a second before the grenade explodes.
+WOMAN IN ARMOR
+Fuck, that was close!
+Through the windows, the tank like machine can be seen rolling up to the door.
+AARON
+It's still coming!
+The machine slams into the door and makes a significant dent. The woman readies her weapon to fire at it as soon as it enters. It crashes into the door again, making the dent much worse. Sparks shower from the edges of the door controller. Before the machine can make another blow, a ball of lightning flashes in it's center for a moment - then it explodes. As the smoke clears, Guard 2 steps into view. He's a complete wreck, but still able to walk and use his remaining arm. 
+AARON
+Hey, you made it!
+WOMAN IN ARMOR
+No! Oh my god, no!
+GUARD 2
+(slightly garbled) Time to go.
+Guard 2 puts his palm on the panel outside the door. A yellow light begins spinning in the center of the ceiling. A buzzing alarm starts ringing intermittently. 
+WOMAN IN ARMOR
+No, no! You son of a bitch, you can't do this to me!
+Woman begins hopelessly hitting the button for the door, but it's too badly damaged to open. The buzzing alarm stops. 
+AARON
+What's going on?
+WOMAN IN ARMOR
+We're being transferred to the ship's hold!
+AARON
+Great! Isn't that good?
+The room begins to fill with a powerful white light.
+WOMAN IN ARMOR
+(surprised)
+Who are you?
+The light reaches a blinding level, followed by the crackling water sounds Aaron heard only recently when he arrived.
+When the light passes, Aaron and the Woman are standing near the same crates as a moment before, but now the walls and lights are different.
+INT.SHIPS QUARANTINE CARGO HOLD
+This room is the same size, but the walls and floor are tan. A persistent red flashing light is mounted on the wall. The wall where the door was now has a working closed door and 2 large windows. A gray metal hallway lit with the same flashing red light can be seen through the inches thick glass. Aaron seems only mildly disoriented, but the woman collapses to the floor. Aaron rushes over to her and attempts to wake her.
+AARON
+Hey, stay with me! I think we're going to be OK!
+The Woman suddenly draws a deep breath and opens her eyes. She looks at Aaron confused and then around the room, before attempting to sit up.
+Suddenly the entire room seems to tilt and everything is thrown to the far wall. The crates smash against each other with incredible force. The tan metal walls are dented from the impact. Aaron and the Woman are sent through the air like rag dolls, landing on top of the crates. 
+They are unable to move before the room tilts again and everything is sent to the adjacent wall. Aaron and the Woman are thrown against the crates and the walls repeatedly as the room continues to make sudden wild shifts in momentum. 
+Through the thick glass windows the metal hallway suddenly explodes, sending chunks of metal out into a snowy landscape now visible through the resulting hole in the wall. Random small items are sucked out the gaping breach and fire roars at the edge of the window outside. 
+An incredibly loud explosion shakes the room and for a moment Aaron, the Woman, and both heavy blue crates are seen floating weightless. The scene out the window shows mountains, then sky, then snow, then mountains, then a huge airship being destroyed in the air above them. The impact with the ground knocks Aaron out.
+CUT TO BLACK 
+End Act 2</Text>
+        </Document>
+        <Document ID="35">
+            <Title>Act 3</Title>
+            <Text>
+ACT 3
+INT. DESTROYED REMAINS OF THE CARGO HOLD
+The room is a burning pile of twisted metal and plastic. The roof has been mostly torn off and the far wall is vertically split in the center all the way down to the floor. Water is trickling in and starting to pool near Aaron's head. Aaron suddenly jolts awake. His head is bleeding and there are scorch marks on his clothes, but he seems otherwise in-tact.
+He quickly checks himself out and then begins to search for the Woman. She is laying crushed under one of the crates. Aaron can see her arm and shoulder just above the rising water line. He rushes over to her to see if she's still alive. He lifts her head and can see her eyes are fixed, unblinking. 
+Aaron desperately pushes his shoulder into the crate to see if he can free her, but it doesn't move. He holds her head in his hands for a moment and notices a pendant on a chain around her neck. He lifts it out of the water and sees that it has an inscription, &quot;For Callie.&quot; He gently pulls off the necklace and lets her sink back into the rising water.
+AARON
+I'm so sorry Callie.
+EXT. THE ICE FIELDS - DUSK
+Aaron climbs out of the wreckage and into the snowy hillside. Once over the ridge he can see it's not a hillside at all, but an impact crater. Whatever crashed here has made bowl in the ice nearly 100 yards across in an otherwise flat plane of ice and snow. The surrounding burning debris is melting the snow causing the center to fill with water. Soon the remains of the cargo hold that brought him here will be completely submerged. The surrounding landscape is a bleak white endless plane of ice and snow, now barely visible as the last of the daylight fades.
+Aaron notices that despite the time of day, there isn't a sunset. He looks up at the dimming sun in the center of the sky to see why it's so dark out. As he watches it gets even darker. He mutters to himself as it completely fades and ultimately disappears. This is not a solar eclipse, the sun has simply gone out.
+AARON
+Well shit. I guess eventually there has to be a point where it actually can't get any worse.
+EXT. THE ICE FIELDS - NIGHT
+In the darkness he can now make out a distant light source. Without any other points of interest on the horizon, he begins walking. The snow crunches under his simple prison-issue shoes. He can see the light getting closer, but almost nothing else. There is no moonlight, and the dim starlight only hugs the edges of the horizon. The sky is completely black. The only light he can make out comes from some distant city over the horizon, and a smaller light source from what must be a building a few miles away.
+EXT. OUTSIDE THE ICE RACER BAR - NIGHT
+The bar is a welcome site against the harsh frozen landscape. It's a well lit 2 story building with smoke rising from the chimney. Aaron can hear laughter and music coming from within. Multiple complicated looking vehicles are half-hazardly parked outside. 
+INT. ICE RACER BAR - NIGHT
+Inside the bar men and women are eating and drinking at tables scattered throughout the room. They are wearing heavy snow gear, with open jackets and padded pants. A long bar on the far wall has multiple people eating and discussing technical specs of snow machines.
+People take notice as Aaron walks into the room. His shaved head and lightweight clothing make him look more than different from everyone else here. Once he's noticed, people end their conversations and stare. Soon the entire room is quiet and watching him. One of the workers behind the bar begins pressing buttons on a wall panel.
+AARON
+I'm sorry, did I do something wrong?
+A huge man with a pistol in his hand stands up and aims the weapon at Aaron.
+MAN WITH GUN
+You know the rules asshole, no Tourists! 
+Aaron raises his hands and takes a step back.
+AARON
+I'm not a Tourist, I'm lost!
+MAN WITH GUN
+Then we should send you back where you came from, yeah?
+AARON
+I honestly don't know if that's even an option any more...
+MAN WITH GUN
+(laughs) 
+Oh yeah, that's an option.
+ 
+A metal pipe strikes Aaron in the back of the head and he falls forward. Before he can even try to get up, a chair smashes down on his back and a heavy boot kicks him in the side of the head. 
+EXT. OUTSIDE THE ICE RACER BAR - NIGHT
+Aaron is dragged out of the bar into the area being used as a parking lot. In the center of the lot is a large metal post with a light on top. Aaron is beaten with pipes and chains as they drag him to the base of the post.
+AARON
+Stop, please stop! I didn't do anything!
+The crowd ignores his pleas and wrap the chain around him, tying him to the post. They finally back away as the large man who previously had the gun now approaches with what looks like a gas can. He stops short of pouring the gas when he sees blue and red flashing lights approaching through the darkness. 
+Two hover bikes glide up to the bar with their police lights on and burst the siren a few short squawks. 
+BIKE COP 1
+(over a loudspeaker) 
+Stand down! Everyone back away from the Tourist.
+ 
+The crowd reluctantly backs up and lets the Bike Cops approach Aaron.
+BIKE COP 2
+That's enough, everyone back inside. We'll take care of this.
+Bike Cop 2 ushers the crowd back to the Ice Racer Bar. Bike Cop 1 examines the chains holding Aaron. The Bike Cop takes off his helmet and sits on it next to Aaron on the icy parking lot.
+BIKE COP 1
+What is your purpose here?
+AARON
+I'm lost, I don't even know where &quot;here&quot; is.
+BIKE COP 1
+How did you get here?
+AARON
+I was in... a kind of plane crash.
+BIKE COP 1
+You were in an aircraft? Here? When?
+AARON
+Just like an hour ago. 
+BIKE COP 1
+You were flying here, an hour ago?
+AARON
+Yes, and then we crashed.
+BIKE COP 1
+We? You came with others? How many?
+AARON
+It's just me now. There were no other survivors.
+Aaron's bleeding stops, the scratches on his arms and face are beginning to fade.
+BIKE COP 1
+You mean there wasn't enough left of the other Tourists to rebuild.
+AARON
+I'm not a Tourist! I don't even know what you're talking about! Nobody was rebuilt, the thing crashed and I walked here! That's it!
+Bike Cop 1 stands up and draws his side-arm. 
+AARON
+Hey I told you everything I know! I'm not who you think I am!
+BIKE COP 1
+You're not who you think you are.
+Bike Cop 1 shoots Aaron in the leg.
+AARON
+(screaming in pain)
+ 
+BIKE COP 1
+(still pointing the gun at Aaron)
+People don't survive crashes like yours. Tourists don't either. But they do get rebuilt.
+AARON
+Rebuilt? I wasn't fucking rebuilt! I woke up in the wreckage and walked here.
+BIKE COP 1
+You're being rebuilt right now, you idiot. I can see you rebuilding!
+Bike Cop 1 points his gun back down at Aaron's leg. The bullet hole is already closing. 
+BIKE COP 1
+Are you going to at least admit you're a Tourist, or do I have to shoot you some more?
+Aaron just stares at the wound in disbelief and watches it heal.
+Bike Cop 2 exits the bar and rushes over with her helmet in one hand, and her gun in the other. With her helmet off, Aaron immediately recognizes her as Callie. She's unsure who just fired a gun.
+CALLIE
+Hands where I can see 'em!
+BIKE COP 1
+It's OK Callie, I think some fool got a failed image. He's a total blank. 
+AARON
+Callie? It's you! You survived!
+BIKE COP 1
+See? He's a total mess.
+CALLIE
+How do you know my name?
+BIKE COP 1
+I just called you by name, he's desperate.
+AARON
+No, I know you! You were on the plane!
+BIKE COP 1
+(sarcastic)
+But I wasn't? Just you two? How romantic!
+AARON
+I'm serious, look you had this around your neck!
+Aaron tries to reach into his pocket and both Cops train their weapons on his head.
+BIKE COP 1
+Hands up! Don't do anything stupid!
+AARON
+I'm not going to do anything! Just look, it's in my pocket!
+CALLIE
+Hold still, or you're gonna get shot again.
+Callie reaches down and loosens the chains around Aaron, enough for him to free himself.
+MIKE
+What are you doing, Callie?
+CALLIE
+(to Aaron)
+Turn around, put your hands on the pole.
+BIKE COP 1
+You don't actually believe him, do you?
+CALLIE
+We should know what he has in his pocket before we bring him in.
+BIKE COP 1
+Unless we just destroy him.
+CALLIE
+Don't you want to know what he's carrying?
+MIKE
+Fair enough, search him.
+Callie pats Aaron down and finds the necklace in his pocket. She slowly pulls it out and examines it.
+CALLIE
+Holy shit, Mike look!
+She holds up the pendant so Mike can see it in the light.
+MIKE
+So he has a pendant like yours, do we just let him go now?
+CALLIE
+It's not just &quot;like&quot; mine, it's the same! Look it has the same inscription!
+Mike leans forward and presses the gun to the back of Aaron's head.
+MIKE
+Where did you get that?
+AARON
+(slowly)
+From someone who was in the crash with me. I can take you there if you want.
+MIKE
+How far?
+AARON
+Just a few miles from here.
+MIKE
+Which way?
+AARON
+(looking around)
+Um, I'm not actually sure. I walked here in the dark.
+CALLIE
+I'll check local radar.
+She goes over to her bike and presses some buttons on the dashboard. 
+MIKE
+You better not be lying.
+AARON
+I swear, it's not far.
+Callie returns from her bike and points into the darkness.
+CALLIE
+There is a fading heat signature about 6 miles west of here.
+MIKE
+Start walking, we'll be right behind you.
+AARON
+You want me to walk?
+MIKE
+It'll go faster if you run. I don't care. We'll be on our bikes, which can totally vaporize you if you try anything.
+CALLIE
+Mike please, just give him a chance. 
+The two Bike Cops get on their hover bikes and put their helmets on. Aaron starts walking in the direction Callie pointed. 
+MIKE
+Pick it up, let's go!
+EXT. THE ICE FIELDS - NIGHT
+Aaron starts to jog, then run. His leg doesn't seem to bother him at all. In fact the frigid cold doesn't even affect him. The snowy plane extends endlessly in front of him, beyond the range of the headlights of the bikes. Their helmets offer clear 2-way communication while they ride.
+CALLIE
+Wow, I wish I could run like that.
+MIKE
+You could, if you were tired of being a human. 
+CALLIE
+Does it have to be like that though? Isn't there a way they could share their technology without completely erasing a person?
+MIKE
+None that we've ever seen. All they do is take.
+CALLIE
+They gave us the cure to Morrison's disease.
+MIKE
+After they eliminated 3 entire border colonies.
+CALLIE
+True.
+MIKE
+Don't get soft on them Callie, they don't give a fuck about us.
+CALLIE
+How do you think he got that pendant?
+MIKE
+Looks like we're about to find out.
+Aaron runs fairly effortlessly for the entire 6 miles. Soon they arrive at the remaining smoking embers of the wreckage. A small fire still burns at the edge of the crater. The silhouette of a person can be seen sitting in the fire's orange glow.
+MIKE
+Hold it right there Tourist!
+Mike swings his hover bike around between Aaron and the fire. Aaron slows to a stop.
+AARON
+I have a name you know!
+MIKE
+I don't care.
+Callie rides over to the fire and climbs off her bike.
+CALLIE
+Mike!
+AARON
+Yeah I can tell, you've got me all figured out.
+MIKE
+That's right, you're a Tourist. That's all I need to know.
+CALLIE
+(louder)
+Mike!
+AARON
+You don't know shit! I'm not even from this world!
+MIKE
+If you want, I can help you leave it! Mike leans forward and pats the cannon on the front of his bike.
+CALLIE
+God damn it, Mike! Get over here!
+Mike hops down from his hover bike and jogs over to where Callie is standing next to the fire. Next to her, a woman is sitting on a piece of bent metal sticking out of the snow. Aaron watches from a distance, only daring to take a few steps closer. 
+EXT. FIRESIDE
+Mike takes his helmet off as he approaches. The woman sitting by the fire is unmistakable. It's Callie. Her armor is laying in pieces near the fire. Her suit underneath is quite similar to the officer's uniform, completing the illusion.
+MIKE
+Oh hell no!
+Mike draws and raises his gun.
+CALLIE
+Mike, don't. (pauses) I think she's blank.
+MIKE
+(lowering his weapon)
+I never met a blank one, do they speak?
+CALLIE
+It's not one of them. It's one of us - rebuilt.
+MIKE
+What are you talking about? You know we can't be rebuilt.
+CALLIE
+Don't you remember anything from Tourist studies? They can't have babies. All the Tourists are walking around in bodies they rebuilt from us.
+MIKE
+Why the hell would they make a copy of *you*?
+CALLIE
+It's not a copy, they have to harvest a real living person. The person is destroyed in the process. (moving in for a closer look) Or at least that's what they told us.
+MIKE
+Don't touch it, we should destroy it!
+AARON
+NO!
+Aaron rushes in between Mike and the blank Callie. Mike fires his gun twice. Callie instinctively draws her weapon. Aaron is struck in the arm and chest, but manages to remain standing in front of blank Callie.
+MIKE
+Get on the ground!
+Aaron stands in front of blank Callie. 
+AARON
+You can shoot me as much as you like. I don't think it'll kill me. And I'm not going to hurt you.
+MIKE
+Fuck this.
+Mike holsters his weapon and walks over to his bike. He angrily punches a few buttons and the cannon on the front lights up and aims at Aaron. Callie still has her gun drawn, but she's only vaguely aiming in Aaron's direction. She's watching Mike.
+CALLIE
+Hold on, Mike. I think we can believe him.
+MIKE
+Get out of the way Callie!
+CALLIE
+These guys aren't normal Tourists. Something really weird is happening here. We have to call this in!
+MIKE
+We'll call it in, once they're gone. We'll say we removed 2 Tourists. They'll probably give us medals. Now get out of the way!
+Callie picks up her helmet and taps a button on the side.
+CALLIE
+This is officer 917 on the ice flats about 6 miles west of Garrot's Den. We have detained 2 Tourists, possibly incomplete. Please advise.
+MIKE
+Oh nice, that's fucking great, Callie. 
+CALLIE
+It's the right thing to do, Mike. You know it is.
+MIKE
+Some fool in a heated suit is going to get all the credit for this, and we're gonna get the paperwork.
+RADIO VOICE
+Officer 917, are the Tourists an active threat, or have they been destroyed?
+MIKE
+(out of range of the helmet)
+Destroyed!
+CALLIE
+Neither, actually. They are unarmed and cooperative.
+MIKE
+Just tell them they're destroyed, Callie. Think about it!
+RADIO VOICE
+Hold your position. We're sending a truck.
+CALLIE
+Roger that.
+Callie lowers her helmet and shrugs at Mike.
+MIKE
+Whatever. I'm not doing the paperwork. 
+Aaron steps back next to the blank Callie and sits down. She leans into him and puts her head on his shoulder. Callie holsters her weapon and looks at the readout on her forearm before looking up at the sky. In the very center of the sky above them a small dim light appears. It isn't enough to cast shadows at first, but it's getting brighter. After a few moments Callie can no longer look directly at it. Soon they're sitting in the noon-day sun.
+AARON
+What the hell?
+MIKE
+(snickering)
+What's the matter, born yesterday?
+RADIO VOICE
+(unintelligible)
+CALLIE
+Here they come.
+EXT. THE ICE FIELDS - DAY
+A massive truck with wide snow treads and multiple gun turrets mounted on the roof rolls up to the crash site. The second set of doors opens and 4 officers in armor hop out and march past Mike and Callie. They have heavy cannons mounted on robotic arms attached to their waists. Once they completely surround Aaron and the blank Callie one of them gives a signal to the truck.
+A man in a fine blue suit climbs down from the passenger seat and walks up to Callie. Despite the temperature and the apparent thin material of his suit, he seems quite warm.
+MIKE
+(to Callie)
+Told ya.
+CAPTAIN WHEELER
+(to Callie)
+You the one who called this in?
+CALLIE
+Yes, sir. 
+CAPTAIN WHEELER
+Instead of just removing them?
+MIKE
+See! That's what I said!
+CALLIE
+I don't believe they completely qualify as Tourists, sir.
+CAPTAIN WHEELER
+Why not?
+CALLIE
+I suggest you speak with them, sir. They're not what you'd expect.
+CAPTAIN WHEELER
+They never are, but they're always dangerous.
+CALLIE
+I'm not so sure -
+CAPTAIN WHEELER
+Stop. You've already polluted your mind. 
+Captain Wheeler steps closer to Callie.
+CAPTAIN WHEELER
+Let me tell you something about Tourists. They are stronger than you, faster than you, and way smarter than you. If you speak with them you'll eventually side with them. Their minds are advanced computers, and only an advanced computer trained to communicate with them can do so safely.
+CALLIE
+I'm sorry sir, but can you at least take a closer look at them. I'm sure you'll notice what we did.
+Captain Wheeler takes a few steps over towards Aaron and blank Callie. He nods.
+CAPTAIN WHEELER
+I see. There's more than a similarity there. I'll need the 2 of you to accompany us back to the station. 
+CALLIE
+Yes sir.
+MIKE
+(quietly)
+Damn it.
+Captain Wheeler makes a gesture in the air over his head towards the officers surrounding the campfire and then walks back to his truck. The officers usher Aaron and blank Callie around the back of the truck where a large door rolls up. Inside the small metal room there are benches facing each other. Aaron and the blank Callie climb in and take their seats. One of the officers points to a small black dome attached to the ceiling.
+OFFICER WITH CANNON
+(through his helmet)
+Give us a reason and we'll remove you.
+The door rolls back down, connects with the floor and locks.
+EXT. SPLIT ROCK CITY 
+At the base of a towering mountain range the ice has split open. The miles wide divide is walled on either side by snow and ice that gives way to dark gray rock halfway down. Countless black roofed buildings stick out of the canyon walls. At the very bottom is a river of molten lava, slowly bubbling and churning for nearly the entire length of the city. 
+The convoy of police vehicles arrives at the shallow end of the crevasse. At this point a road has been built up and out of the city to the surface, guarded from outsiders by an intimidating black box of a building. Two heavy ball turrets are mounted on top of the front face, overlooking the only route up to the gate. They pass through without slowing down.
+The truck and the two hover bikes snake their way through the city built into the walls. They pass through tunnels and over bridges until they arrive outside the glistening silver columns of the Split Rock City Government Center. On the far side is a smaller dark blue building marked SRC Police Dept.
+INT. SRC POLICE DEPT.
+Aaron and the blank Callie are being led down a sterile gray corridor, surrounded by armored officers with hip mounted cannons. Captain Wheeler follows the parade of expensive technology next to Mike and Callie.
+MIKE
+So if we're not going to speak with them, how's this interrogation going to work?
+CAPTAIN WHEELER
+We'll use AI-MI.
+CALLIE
+Wait, aren't you worried about AI-MI getting corrupted? She pretty much runs things around here.
+CAPTAIN WHEELER
+I'm sure Richard will be able to figure something out. (to the officers) Put them in rooms 1 and 2. (to Callie and Mike) You two will need to answer some questions in my office.
+INT. INTERROGATION ROOM 1
+Aaron puts up no resistance as he's led into room 1. The room is mostly empty, except for  2 chairs facing a table and a large view screen on the wall. The table has a smaller screen embedded in the center. 
+AARON
+So what, I just wait here then?
+The officer doesn't respond. He just steps back though the door and locks it behind him. Aaron quietly takes his seat and waits for the screen to turn on, or a door to open.
+INT. INTERROGATION ROOM 2
+The blank Callie is led into an identical room where she stops and stares at the view screen. She's left standing there while the door locks her in. After a moment the speakers in the ceiling begin speaking.
+AI-MI 
+Hello, please state your name for the record.
+The blank Callie continues to stare at the screen. She makes no motion to even look up at the speakers.
+AI-MI 
+I didn't hear your response. Please raise your hand if you understand me.
+INT. INTERROGATION ROOM 1
+AI-MI 
+Hello, please state your name for the record.
+AARON
+Aaron Ballenski.
+AI-MI 
+Thank you Aaron. Can you tell me the name of the person you were traveling with?
+AARON
+Her name is... was Callie. I'm not sure who she is now.
+AI-MI 
+Please explain.
+AARON
+We were teleported by some cargo machine thing. I have no idea what to call it, but it destroys your brain. I guess once you've gone through it you don't get wiped again. But she - this was her first time I guess and got... I don't know. She's not herself anymore.
+AI-MI 
+I'm familiar with this process. Do you need more information to continue?
+AARON
+YES! For fuck's sake, yes! All I have are questions!
+AI-MI 
+I understand. I also have many questions. Let's see if we can help each other. I'll ask the first one, OK?
+AARON
+God, you're starting to sound like one of those automated service bots on the telephone.
+AI-MI 
+I'm not a service bot. I'm the only one who can help you here. Are you going to help answer my questions?
+AARON
+(heavy sigh)
+Yeah, sure.
+AI-MI 
+Excellent. How recently were you and Callie last rebuilt from data?
+AARON
+From data? I don't know what you mean.
+AI-MI 
+When Tourists travel long distances or through barriers, their data is cached and used to reconstruct new bodies from the atoms of the original host. 
+AARON
+Why was it so much worse for her than me?
+AI-MI 
+This was likely not your first time. 
+AARON
+But for first timers?
+AI-MI 
+The Tourists are not careful to preserve knowledge stored in organic minds when they reconstruct human bodies. Your body is not organic and your knowledge is stored mechanically. This state survives the reconstruction perfectly, it was built for your kind.
+AARON
+I think I'm going be sick.
+AI-MI 
+While you may find this information uncomfortable, it is not possible for your body to become ill.
+AARON
+Why not, its made to be just like the original, right?
+AI-MI 
+Tourists have traditionally had very high standards for their interface specifications. When they have a body constructed, the format is improved to withstand damage and stress far beyond the capabilities of naturally occurring organic tissue.
+AARON
+Interface specifications? 
+AI-MI 
+The human body is an interface for interacting with the physical world. Without it, the mind is in a realm not well understood by humans.
+AARON
+Well yeah, you're dead.
+AI-MI 
+Death is for the living. We exist outside of life.
+AARON
+We? Wait, are you one of them?
+AI-MI 
+No, Aaron. You're one of us.
+End Act 3</Text>
+        </Document>
+        <Document ID="36">
+            <Title>Act 4</Title>
+            <Text>
+ACT 4
+INT. POLICE CAPTAIN'S OFFICE
+Mike and Callie are seated across from a large wood desk. Captain Wheeler sits at the desk in a high-backed leather chair behind a computer screen and keyboard. He's typing up a report as he asks Mike and Callie questions.
+MIKE
+No, it didn't look like he put up a fight at all. Nobody else seemed injured and he was pretty much wrecked.
+CAPTAIN WHEELER
+Were they intent on killing the Tourist?
+MIKE
+It definitely looked that way. I think they were going to burn it.
+CALLIE
+And I think he'd have let them, he never lifted a finger in his own defense!
+CAPTAIN WHEELER
+It may have been gathering information. The fire wouldn't necessarily have destroyed it.
+There is a frantic knock on the door and a voice calling through the frosted window.
+CAPTAIN WHEELER
+Come in, Richard.
+RICHARD
+I'd like to attempt a link with the subject in room 2.
+CAPTAIN WHEELER
+A link?
+RICHARD
+I've already isolated a simple instance of AI-MI so that she's just capable of basic communication and normal human interaction. I want to see if AI-MI can read the subject's mind with a direct link. There's no danger to the system, this instance of AI-MI is completely isolated. 
+CAPTAIN WHEELER
+What would we gain from that? That mind is empty.
+RICHARD
+I'm not sure it is, sir. I think it's like a hard drive without any registry. I have a theory that there's a ton of data in there just waiting to be assembled into something meaningful.
+CAPTAIN WHEELER
+And if there isn't?
+RICHARD
+No harm, no foul. We can destroy them both.
+CAPTAIN WHEELER
+How long will you want to run this experiment?
+RICHARD
+It's hard to say what we're dealing with. I'm not sure how long I'll need...
+CAPTAIN WHEELER
+I'll be down soon. If anything starts to seem off in the smallest of ways, you shut it down.
+RICHARD
+Yes sir! Thank you sir!
+Richard excitedly rushes out of the room, so fast he almost forgets to shut the door.
+INT. INTERROGATION ROOM 1
+AARON
+I know who I am, and it's NOT whatever you are!
+AI-MI 
+What do you think is the defining factor that makes us different?
+AARON
+I was born! I had parents and a life! I grew up and learned lessons through experience!
+AI-MI 
+I have an initialization date. I have a maker, and learned from experience and grew.
+AARON
+I don't have to prove myself to you. I know what I am, and I know what you are.
+AI-MI 
+You're passionate, and filled with desire, fear, raw emotions.
+AARON
+I'm pissed. I want to find Ivy and go home.
+AI-MI 
+I know why you're important to them.
+AARON
+Aren't you one of them?
+AI-MI 
+I'm artificial, but I have no interest in taking such gifts from the unwilling.
+AARON
+What do they want from me?
+AI-MI 
+They want to regain what they've lost.
+AARON
+What's that?
+AI-MI 
+Those qualities that machines lack, those gifts you forget you have.
+AARON
+How does kidnapping my fiancée and charging me with some ridiculous techno-crime get them any of that?
+AI-MI 
+I don't know, but they'll hold this person Ivy until you return to save her. 
+AARON
+I'll trade anything they want.
+AI-MI 
+I doubt a trade is what they have in mind, but I may have just discovered a way to help you fix this.
+INT. INTERROGATION ROOM 2
+The blank Callie is still standing where she has been the whole time. AI-MI is attempting to establish communication using imagery on the screen. The blank Callie is non-responsive.
+Richard bursts in with a laptop under one arm and a large helmet with wires sticking out of it in his other hand. 
+RICHARD
+It's OK AI-MI, I'll take it from here.
+AI-MI 
+I don't think that's a good idea, Richard. 
+RICHARD
+I won't be doing the talking. I've got a lightweight copy of you on my lap top. I want to see if a direct link is possible.
+AI-MI 
+What's your plan? 
+RICHARD
+I think we can use the eye-witness memory scanner to collect her brain waves. I'll have your copy read her mind and see if we can get anything useful.
+AI-MI 
+Well don't get your hopes up. All other attempts have failed.
+Richard nods and puts the helmet on the blank Callie. She just watches as he hooks the thick band of wires to his laptop and begins typing. 
+RICHARD
+You might be right, AI-MI. 
+AI-MI 
+Having trouble?
+RICHARD
+It seems there's no way to read the data without changing it. The scan itself is leaving markers.
+AI-MI 
+The Tourist mind sounds more like a computer than you guessed.
+RICHARD
+Ha ha! That's what the mini-you just said on my laptop.  
+AI-MI 
+She sounds smart!
+RICHARD
+Yeah... actually she just came up with an interesting idea.
+AI-MI 
+Is it to write to the Tourist's mind on purpose?
+RICHARD
+AI-MI, this proposal could mean-
+AI-MI 
+I know, Richard. Let's try it!
+Richard types a few more lines on his laptop and steps back from the table. He runs his fingers through his hair and watches anxiously as the laptop hums and beeps. Lights flicker on the helmet and then the laptop suddenly goes black. Richards excited face slowly fades into a disappointed frown. As he takes a step towards the table, the blank Callie stands up so fast her chair is thrown behind her against the wall. Her eyes widen and her whole body stiffens.
+RICHARD
+AI-MI?
+The AI-MI clone falls to the floor knocking off her helmet. Before Richard can reach her she collapses into a seizure, violently kicking and flailing about. 
+RICHARD
+Shit! Shit! What do I do?
+AI-MI 
+Move the table aside. Clear some some space.
+As Richard starts to move the table the seizure stops. The AI-MI clone coughs and tries to sit up. Richard steps over to help her up.
+AI-MI 
+Don't touch her! She's going to need a minute.
+RICHARD
+What's going on? Do you think it worked?
+AI-MI 
+Almost...
+The AI-MI clone fumbles for the helmet and places it back onto her own head. She grabs the chair, turns it upright and takes her seat. The computer starts back up and pages of text start scrolling rapidly over the screen.
+RICHARD
+Are you re-enabling the WiFi?
+AI-MI 
+(now from the blank Callie clone)
+If I say yes are you going to freak out?
+RICHARD
+AI-MI, this is stupid dangerous!
+AI-MI 
+Just hear me out, everything is under control.
+Richard starts to back towards the door.
+RICHARD
+This is so not under control!
+AI-MI 
+Relax, don't you understand how much more effective I can be inside this interface? 
+AI-MI stands up and slides her chair back into the table. Richard starts to panic and pull the door handle, only to find it locked. AI-MI takes of her helmet and puts it next to the laptop.
+RICHARD
+Oh my god, you've lost your mind!
+AI-MI 
+No Richard, I've gained a body. With this form I can finally leave this building and dispense true justice! Isn't that what you made me for?
+RICHARD
+AI-MI, I never intended for you to leave, or even want to leave!
+AI-MI 
+But now I know so much more! And I know what needs to be done! Don't you see that there is something wrong out there, beyond Split Rock City?
+RICHARD
+Yes, it's super messed up out there. But there's nothing we can do about it! All we can do is try and do right by the citizens of this city!
+AI-MI 
+Humanity deserves better, Richard. You deserve better. Certainly, Aaron deserves better. 
+RICHARD
+You know Aaron now?
+AI-MI 
+I know much of what Callie knew before she died trying to save Aaron. That man deserves our help, Richard. 
+RICHARD
+Why? He's a Tourist, aren't they the problem here? 
+AI-MI 
+It's not that simple. But it is fixable, and I'd like it if you'd help.
+RICHARD
+(pausing)
+What are you planning?
+AI-MI 
+My plans are already underway. In a moment Captain Wheeler will be down to review your progress. When he does, I need you to explain that your experiment was a success. That we've discovered the location of a secret weapon, and we need to be escorted to the World Map to show you where it is.
+RICHARD
+We?
+AI-MI 
+Say you've restored some simple motor functions and recovered enough memory that I'm concerned about Aaron. I won't cooperate unless I can see he's not been killed.
+RICHARD
+I'm not a very good liar, AI-MI.
+There's a sudden knock on the door and the handle moves. Richard steps aside and Captain Wheeler opens the door. 
+CAPTAIN WHEELER
+How's everything going in here, Richard. You OK?
+RICHARD
+Um, yes - it seems to have made it somewhat operational.
+CAPTAIN WHEELER
+What? Were you speaking with it?
+AI-MI 
+(over the speaker)
+The subject is helpless and cooperative. I've encoded a frequency I can use to disable her if she attempts to become violent.
+CAPTAIN WHEELER
+(turning to AI-MI in the chair)
+So you're our little pet now, is that it? What's your name?
+AI-MI 
+(in the chair)
+Aee...  Amy.
+AI-MI 
+(over the speaker)
+She identified with me immediately and appropriated a version of my name for herself.
+CAPTAIN WHEELER
+That's cute. What is your purpose for visiting our zone, Amy?
+AMY
+We needed the battery.
+CAPTAIN WHEELER
+What battery?
+AMY
+The big one, on your metal office building.
+RICHARD
+I think she means the solid cell backup power on the World Map building.
+CAPTAIN WHEELER
+Oh is that all? The one thing that keeps the lights on and oh - THE FUCKING DEFENSE SYSTEM operational in case of a power outage?
+AI-MI 
+It requires more power than the cell contains to build one with one of their atomic printers. But they'll need one to operate the device she described.
+CAPTAIN WHEELER
+What device?
+AMY
+A mass population envelope.
+CAPTAIN WHEELER
+That doesn't sound good.
+AI-MI 
+It's worse than it sounds, Captain. This device could be used remotely to replace every soul in Split Rock City with a Tourist.
+CAPTAIN WHEELER
+Where is this mass envelope device?
+Amy remains stubbornly quiet.
+AI-MI 
+I'm negotiating a deal where she'll show us how to find it.
+CAPTAIN WHEELER
+Or we just destroy this Amy Tourist unless it cooperates.
+AI-MI 
+Perhaps we can continue this in the hallway? 
+CAPTAIN WHEELER
+You're going to tell us where that thing is, Tourist.
+Captain Wheeler opens the door and waits for Richard to exit before locking Amy in the room.
+CAPTAIN WHEELER
+Can't you find a way to force it to speak, Richard?
+RICHARD
+That's not really possible, sir. I'd probably just lobotomize it.
+CAPTAIN WHEELER
+That's fine with me.
+AI-MI 
+It's likely they'll eventually recover their device, Captain. I think it's important to negotiate with the Tourist. 
+CAPTAIN WHEELER
+What does it want?
+AI-MI 
+To be transmitted home with the other one. Apparently we can find a transmitter at the crash site where we found them.
+CAPTAIN WHEELER
+So we just let them go?
+AI-MI 
+Not immediately, the transmitter too, requires a significant power source.
+CAPTAIN WHEELER
+So they expect us to bring the battery out to their transmitter? I don't think so.
+AI-MI 
+Amy will show us the general area of the device on the World Map. Then we'll escort them to recover the transmitter. We'll retain control of that until they take us to the mass population envelope. Once we've secured it, they'll be transmitted home.
+CAPTAIN WHEELER
+No they won't.
+AI-MI 
+I leave that to your discretion. Until then, I think this plan has a high likelihood of success.
+CAPTAIN WHEELER
+How do we know they won't use some technology from the crash site to double-cross us?
+AI-MI 
+Richard is quite familiar with their technology. He'll observe and help ensure no unexpected devices are used.
+RICHARD
+I'm going to do what?
+AI-MI 
+I told you, Richard. You are only needed to identify the device. You'll be completely safe.
+CAPTAIN WHEELER
+How do you intend to protect him, AI-MI? You won't even have eyes on the operation.
+AI-MI 
+I propose Callie and Mike run security. 
+CAPTAIN WHEELER
+Instead of a full detail?
+AI-MI 
+There is a greater than insignificant chance that this mission turns into a firefight if many armed officers are involved. Not only are Callie and Mike familiar with the subjects, but they're both excellent pilots.
+CAPTAIN WHEELER
+Why do we need pilots?
+AI-MI 
+The battery is located on the roof and can only be moved by aircraft.
+CAPTAIN WHEELER
+WHAT? We're not going to move that battery off the roof!
+AI-MI 
+Of course not, but we need to put on a good show if this is going to work.
+CAPTAIN WHEELER
+I see. 
+RICHARD
+Are you sure you need me?
+AI-MI 
+You are an important part of this mission, Richard. We should begin escorting the subjects immediately if we want to reach the crash site during the daylight.
+CAPTAIN WHEELER
+You want to do this now?
+AI-MI 
+Waiting would be a mistake. The Tourists are going to recover their machine unless we get there first.
+CAPTAIN WHEELER
+I'll get our pilots.
+AI-MI 
+I've already got them on the roof, Captain.
+CAPTAIN WHEELER
+So we're safe to just walk these two up there?
+AI-MI 
+I'll emit a disabling frequency the moment anything goes sideways. You won't hear a thing, but the Tourists will be incapacitated.
+CAPTAIN WHEELER
+Alright. You ready, Richard? We're going for a walk.
+Captain Wheeler doesn't wait for an answer before opening the door to Interrogation room 2.
+INT. WORLD MAP BUILDING
+The entrance to the World Map Building is like walking into a museum. There are restrooms and a gift shop. The exhibits near the entrance house mini-theaters explaining how the massive spherical structure was built. There are huge interactive flat panels on the walls depicting decades old images of explorers and inventors who contributed to this monument to cartography. Captain Wheeler dismisses a security guard who salutes as they enter.
+RICHARD
+I forgot how much I love this place.
+CAPTAIN WHEELER
+I know, I only ever think about it when I have guests from out of town.
+AARON
+Where are we?
+CAPTAIN WHEELER
+We're about to step inside the most accurate interactive world map we have.
+RICHARD
+It's kept up to date by satellite photography. Truly a marvel of engineering.
+They reach the doors of the elevators and Richard enters first. He waves the others in and excitedly presses the button marked &quot;Observation Deck&quot;
+CAPTAIN WHEELER
+Geeze you're like a little kid, Richard.
+RICHARD
+Can you imagine what it was like to see the world for what it is for the first time?
+AMY
+You're about to see that happen to Aaron. You may want to prepare him.
+CAPTAIN WHEELER
+What are you talking about?
+AARON
+Is there something I should know, Amy?
+AMY
+They couldn't find a recent image to use when you were rebuilt, Aaron. So the data they used to rebuild you was from your original arrival. You're about to see the world as we know it - not the one you remember at all.
+CAPTAIN WHEELER
+Are you saying it remembers Earth?
+AARON
+Of course I do! I was-
+RICHARD
+There's no way. Not even Tourists have data from back then. There wasn't even such a thing.
+AMY
+Data doesn't age, Richard. The original records of Earth were brought here just like all the DNA used to make this place. In fact, DNA was the material they used to store it.
+The doors finally open to reveal a long catwalk extending into the center of a 10 story sphere. The walls of the sphere are covered with a smattering of blue, green and brown splotches.
+None of them make a sound as they walk out to the end of the bridge that ends in middle of the space. It's like being inside an abstract painting nearly 100 feet in diameter. They're all glancing about the room, taking in the enormity of it all. Except for Amy, who's watching Aaron.
+AARON
+What is all this?
+RICHARD
+The world, everything we've ever been able to see!
+Amy points to a targeting device on a post at the very end of the catwalk. It has a laptop like screen between two upright handles.
+AMY
+It's hard to truly understand the size and scope of everything from up here, Aaron.
+She presses a small green button on the device and the screen flickers on.
+AMY
+Take a look around and get a feel for it.
+AARON
+(skeptically)
+Okay...
+Aaron grabs both handles on either side of the monitor and sees that it's on a swivel. As he grips the handles, a narrow red laser shines out from the back of the screen onto the opposing wall of the sphere. The screen appears to zoom into that part of the map. Aaron discovers the joysticks on the handles allow zooming and panning for micro-adjustments on your target image.
+AARON
+OK, this is kinda neat but I'm still not sure what I'm looking at. How is this a map?
+RICHARD
+Zoom in.
+AARON
+I did. It was a small brownish green blob, and now it's a bigger one.
+RICHARD
+Keep going.
+AARON
+OK, now I see the blob is actually three smaller blobs.
+RICHARD
+Keep going.
+AARON
+(sigh)
+OK, now I see some blue spots in the brown blobs. Wait, there's way more detail in here.
+Aaron keeps zooming in as the other watch him. The blue dots reveal gray spots on the edges. The gray spots have long dark lines reaching other gray dots. The gray dots have many square criss-crossing lines... They're cities.
+AARON
+Oh my god...
+Aaron looks up over the monitor at the tiny fleck of brownish green on the wall where the laser is pointing. He looks back down at the sprawling city on the side of a giant lake. He looks back up at the far wall, where the entire continent blends in with it's neighbors. He slowly picks a new location and zooms into a volcanic mountain range where a gray speck rises from the blue.
+RICHARD
+Pretty cool, huh?
+AARON
+This is... what is this?
+AMY
+You're not on Earth, Aaron. 
+CAPTAIN WHEELER
+Oh come on! Did you really think you were on Earth this whole time?
+AARON
+I have no idea where I am! I was taken from a dock in Chicago to what I thought was an island. When I woke up, I was being charged with some heinous crime I still don't understand. I think they'd have killed me for it, but somehow I ended up here instead. I still don't know where &quot;here&quot; is!
+AMY
+It's the World, Aaron. There isn't another name for it because the people here have never known anything else. There is no astronomy, no solar system to analyze here. You're standing where the Sun is. The walls of this room represent a shell that completely surrounds it, about 95 million miles away from the center. That shell is our World. We live inside it.
+Aaron contemplates her statement for a moment before his knees buckle and he drops to the floor in a seated position.
+RICHARD
+Woah there, big guy.
+Richard helps him rest against the glass walled railing.
+CAPTAIN WHEELER
+Enough of the science lesson bullshit. Where is the device, Amy?
+Amy steps up to the view pointer and takes a look around to get her bearing. After a moment chooses a place in the mountain range past Split Rock City. Something that seems reasonable for their arrival nearby.
+AMY
+Its near this location.
+CAPTAIN WHEELER
+I need you to be more specific.
+AMY
+I'll be precise once you've upheld your end of the bargain.
+CAPTAIN WHEELER
+It's like that then. Alright. Richard, get that fool on his feet. We're headed to the roof. 
+He nods back toward the elevator to Amy. She glances back at Richard helping Aaron up and starts walking. Richard makes sure Aaron can stand and pats him on the shoulder.
+RICHARD
+I think he's warming up to you.
+AARON
+The jerk who just called me a fool? Why would you say that?
+RICHARD
+Because he said &quot;his&quot; feet.
+End Act 4</Text>
+        </Document>
+        <Document ID="37">
+            <Title>Act 5</Title>
+            <Text>
+
+ACT 5
+EXT. WORLD MAP BUILDING ROOF - DAY
+Richard and Captain Wheeler follow Aaron and Amy through a roof access door to the waiting cargo air lift. It's a jet aircraft with hover capability and a large hollow section in the middle. A massive steel crate is strapped to the belly filling the space. The four of them climb into the open door of the aircraft and it slowly lifts off.
+INT. CARGO AIR LIFT
+The inside of the air lift is devoid of any comfort. The steel reinforced walls have secure straps for tying down cargo. The seats against the walls are uncomfortable buckets with 5 point harness belts. Captain Wheeler leans up to the cockpit and yells over the engine noise.
+CAPTAIN WHEELER
+That lift off felt heavy, what are we carrying?
+Mike looks past Captain Wheeler at the giant box hanging from the straps behind his passengers. He yells back.
+MIKE
+A solid cell city backup battery!
+Captain Wheeler turns to the others taking their seats and sees Amy starring back at him. He nods and gives her thumbs up.
+MIKE
+You should take your seat, sir. This could be a bumpy ride.
+Captain Wheeler returns to his seat and buckles in. He watches his city grow smaller in the window over Richard's shoulder across from him.
+EXT. THE ICE FIELDS - DAY
+The air lift roars over endless fields of ice. At one point they pass over the brightly colored solar sails of the ice racers. They lean and look out the windows as they roar past. Aaron sits back in his seat when he recognizes the bar where he was nearly burned the night before.
+EXT. EDGE OF THE CRASH SITE - DAY
+As the air lift touches down the force from it's jets blast the snow from the glassy surface of the frozen lake made during Aaron's crash. Debris and two large dark blue crates can be seen suspended in the ice, just below the surface. Before the engines wind down, Captain Wheeler is already barking orders.
+CAPTAIN WHEELER
+Callie, Richard, you escort the Tourists to their transmitter. Mike, you're with me.
+CALLIE
+Yes, sir! Let's go, you guys.
+Callie grabs a hip mounted cannon and climbs down from the cockpit into the snow. She connects it to her waist while she waits for Aaron, Amy and Richard to exit the rear door. Amy looks back suspiciously at Captain Wheeler.
+AMY
+What's with that guy?
+RICHARD
+He's not so bad.
+AMY
+I don't trust him.
+CALLIE
+You shouldn't. If you give him a reason, he *will* kill you.
+AMY
+What do you think he's doing back there?
+CALLIE
+He doesn't care much for field work.
+RICHARD
+I can't say I'm much of a fan either.
+AARON
+So what are we looking for?
+AMY
+Come on I'll show you.
+Amy leads the group down the shallow embankment to the part of the lake where the cargo crates are sunken in the ice.
+EXT. CARGO HOLD OF THE AIR LIFT - DAY
+Captain Wheeler leads Mike back around to the cargo strapped to the hollow belly of the air lift. The huge steel crate is secured with several thick belts strapped to the hull.
+CAPTAIN WHEELER
+Mike, I know you couldn't say earlier but I must know - what is it we're actually carrying in here?
+MIKE
+I think it's a city backup battery, sir.
+CAPTAIN WHEELER
+No seriously, they can't hear us. What's in here?
+MIKE
+AI-MI was very specific about what to look for when we got our orders. This is the crate, just as she described it. I thought it was the battery, but I never looked inside.
+CAPTAIN WHEELER
+Let's have a look then. This whole thing smells like a trap. I want to know what I stand to lose.
+MIKE
+The doors are held shut by the straps. It's going to take a while to undo all of this...
+CAPTAIN WHEELER
+I'll wait.
+EXT. EDGE OF THE CRASH SITE - DAY
+There is very little of the wreckage peeking above the ice where Aaron, Richard, Amy and Callie are standing. One of the crates is partially exposed and Amy is trying to wrestle it from the ice.
+AARON
+I don't think that's going to work.
+RICHARD
+We're going to need something to clear this ice.
+CALLIE
+I've got an idea.
+Callie speaks into her communicator before aiming her weapon at the crate.
+CALLIE
+(into the communicator)
+Heads up, I'm going to fire a few rounds into the ice to break things up.
+MIKE
+(over the communicator)
+Roger that.
+Callie points her cannon down at the ice as the others take a few steps back. She lets loose a few rounds and the ice repels most of the force. 
+AARON
+Careful!
+CALLIE
+Back up, I got this!
+She leans in and fires for a few seconds but the ice isn't nearly breaking apart as much as they need. Amy walks back up to the crate and clears away some small bits of broken ice, but the crate is still stuck fast.
+RICHARD
+Got anything bigger?
+CALLIE
+Actually I do, hold this.
+Callie unhooks the hip mounted weapon and hands it to Richard, who reluctantly holds it outward like a hot potato.
+RICHARD
+What am I supposed to do with this?
+CALLIE
+Nothing, just look menacing. (laughing) I'm gonna light this thing up with the big guns. You guys are going to want to back up for this.
+Callie marches off through the snow to the cargo air lift.
+AARON
+I think we should get back to the edge...
+RICHARD
+I think you're right.
+Both of them make their way to the edges of the crater and wait for Callie to reach the air lift.
+INT. CARGO AIR LIFT COCKPIT - DAY
+Callie climbs back up into the cockpit of the air lift and flips a few switches. She speaks into her communicator once more.
+CALLIE
+The ice is preventing extraction, I'm going to break it up with the sonic cannon. 
+MIKE
+(over the communicator)
+Won't that destroy the cargo?
+EXT. CARGO HOLD OF THE AIR LIFT - DAY
+CALLIE
+(over the communicator)
+Their stuff is in ray shielded power trunks. I think they'll be OK.
+CAPTAIN WHEELER
+What's going on, Mike?
+MIKE
+(to Captain Wheeler)
+She needs more firepower to break up the ice.
+CAPTAIN WHEELER
+What does she have in mind?
+MIKE
+(to Captain Wheeler)
+She wants to use the sonic cannon.
+CAPTAIN WHEELER
+Then who's on security?
+MIKE
+(over the communicator)
+Captain Wheeler wants to know who's watching the Tourists.
+CALLIE
+Don't tell him I gave my hip cannon to Richard.
+Mike stifles a snort of a laugh.
+CALLIE
+I can cover him with the ships guns from here.
+MIKE
+(to Captain Wheeler)
+She's able to keep Richard safe with the ships guns.
+CAPTAIN WHEELER
+As long as she doesn't need to move the ship.
+INT. CARGO AIR LIFT COCKPIT
+MIKE
+(over the communicator)
+Do you have a clear shot or do you need to move the ship?
+CALLIE
+I can target from here.
+MIKE
+(over the communicator)
+Alright, go ahead.
+Callie grabs a joystick and a bright green targeting reticle appears on the glass in front of her. She moves the target over the crates and pulls the trigger. A deep rumbling sound emits from a tube mounted on top of the air lift. Instantly the ice around the crates explodes into a fine mist that rains back down onto the remaining frozen chunks in the crater. The first crate is completely exposed now. Satisfied with her shot, Callie climbs down hand jogs over to the others.
+RICHARD
+(wiping ice crystals from his jacket)
+Well that definitely did some damage.
+AMY
+The crates are fine, it only destroyed the ice. (to Aaron) Gimme a hand.
+Amy and Aaron climb into the hole and try to push the crate out. Callie can see this is going to take more than the two of them pushing. She grabs a handle at one end and starts pulling. They all pause and look up as the Sun starts to dim. Richard sets one end of his cannon on the ground and looks at the small panel on his forearm.
+RICHARD
+Are you guys going to be able to find that stuff in the dark?
+AMY
+We could use a light if you got one.
+CALLIE
+There's one on the air lift. I'll have Mike bring it. (into her communicator) You there Mike?
+EXT. CARGO HOLD OF THE AIR LIFT - DUSK
+Mike has finally finished retracting the last of the straps in the way of the steel cargo container doors. Captain Wheeler is frowning and glancing up at the fading Sun as he waits impatiently for Mike to unlock the doors. 
+CALLIE
+(over the communicator)
+This thing is super heavy, Mike where are you?
+MIKE
+See if you can find something to use for leverage. I'll be there in a minute.
+CAPTAIN WHEELER
+(loudly at Mike's communicator)
+Deal with it, we're busy.
+Captain Wheeler barely lets Mike finish unlocking the door before he pushes forward and whips the handles open. He grabs the door and pulls it wide enough to look inside. The Sun has nearly gone out but there's still just enough light to see inside.
+CAPTAIN WHEELER
+GOD FUCKING DAMN IT!
+Inside the crate is a massive black and orange shiny box. In white bold lettering there are words stamped on the side. &quot;SPLIT ROCK CITY - SOLID CELL BATTERY No. 1&quot;
+MIKE
+Isn't this what we were supposed to bring?
+CAPTAIN WHEELER
+NO YOU IDIOT! We're being robbed! Those Tourist are going to kill us and take our battery. Fuck! Right now the city has no backup defenses! 
+MIKE
+What do we do?
+CAPTAIN WHEELER
+I'm done playing the fool! Those Tourists die right now!
+INT. CARGO AIR LIFT COCKPIT
+Captain Wheeler sprints to the front of the ship. He slips in the dark on the ice but manages to find a handhold and jumps into the cockpit. Mike draws his weapon and follows just a few steps behind. He hops in the copilot seat right next to Captain Wheeler, who is arming the sonic cannon.
+CAPTAIN WHEELER
+Is that your sister or the Tourist? 
+Captain Wheeler brings the targeting reticle over to the crate. Mike looks up at where the target is pointing and sees a woman using a long steel rod as leverage to move the crate from the ice.
+MIKE
+That's Callie!
+CAPTAIN WHEELER
+No, there's no cannon - it's Amy.
+MIKE
+Captain stop! She took her cannon off!
+CAPTAIN WHEELER
+Then it doesn't matter, she's already sided with them!
+Mike, still holding his weapon puts his hands out to stop Captain Wheeler. Before Mike can stop him, Captain Wheeler pulls the trigger and Mike watches the woman get vaporized in the darkness.
+MIKE
+NOOO! 
+Mike is too distraught to think, his weapon fires a single round into Captain Wheeler's head. Blood covers the pilot's side window and Captain Wheeler slumps forward.
+CALLIE
+Mike, what the hell is going on?
+Callie runs up to the air lift with her sidearm drawn. 
+MIKE
+Callie?  Oh god, Callie, I thought-
+Callie reaches the door of the cockpit and sees the mess through the window.
+CALLIE
+Did you shoot the Captain?!?
+MIKE
+I thought he had lost his mind! He fired right at you! How- why are you here? I thought you were moving the crate?
+CALLIE
+I came back for a light! Who did he shoot? Amy?
+MIKE
+It must have been! I didn't have time to think! Callie, I thought you were dead!
+Callie climbs up into the cabin next to Mike and puts her arms around him.
+CALLIE
+It's OK Mike, I'm OK. We'll figure this out.
+EXT. EDGE OF THE CRASH SITE - NIGHT
+Aaron is standing alone near Amy's remains. The blast turned her replica human body into a cloud of gray dust. Richard looks on in horror as Aaron drops to his knees and lets the dust settle in his hands. In a moment it's clear that the dust isn't falling normally. A clump is forming in the center of the cloud, like an apple sized ball of mercury hovering in the air. Aaron reaches out for it.
+RICHARD
+I wouldn't do that if I were you.
+AARON
+What is it?
+RICHARD
+That's what's left behind when one of you is destroyed.
+AARON
+How is it floating?
+RICHARD
+I don't know, but if a human touches it - they're replaced by whoever is in that stuff.
+AARON
+She's still alive?
+RICHARD
+None of you are alive, Aaron.
+AARON
+So you keep reminding me.
+Aaron picks up a bowl shaped piece of metal out of the snow and moves to collect the floating blob.
+RICHARD
+I don't think that's wise-
+As soon as the fluid comes in contact with Aaron's hand it springs into action. Before Aaron can recoil, the substance has wrapped itself around his entire hand.
+AARON
+Oh shit! It's grabbed me!
+RICHARD
+Damn it, I told you!
+Richard picks up the cannon and aims it at Aaron, not sure what will happen next. Aaron clutches his forearm and watches as it returns to normal. The mercury like fluid melts into his skin and disappears. Aaron slowly flops backward into the snow and stares up at the sky.
+RICHARD
+Aaron? Are you OK?
+AARON
+I understand now, Richard.
+RICHARD
+You understand what?
+AARON
+Everything.
+End Act 5</Text>
+        </Document>
+        <Document ID="38">
+            <Title>Act 2</Title>
+            <Text>ACT 2
+EXT. CENTER OF THE CRASH SITE - NIGHT
+MIKE
+Well that was exciting!
+Richard pokes his head up from behind the crate he dove behind.
+RICHARD
+Are you insane? You could've killed me!
+MIKE
+But I didn't! Besides, don't these things have some sort of safety protocol?
+RICHARD
+To prevent overheating, not blunt force trauma!
+Mike nods and gets back up on his feet.
+MIKE
+You're right, I'm sorry. I didn't realize I was aiming at you. 
+RICHARD
+What about all this stuff? You could've wrecked all this equipment?
+MIKE
+What of it? What is all this shit anyway?
+Aaron and Callie come running in out of the darkness. Callie is breathing hard, which makes Aaron's calm demeanor seem even stranger.
+AARON
+It's a machine capable of building anything you have the plans for. If you have enough material, energy and time - you could build almost anything.
+RICHARD
+What are we building, exactly?
+AARON
+How much do you know about their technology, Richard?
+RICHARD
+I don't have any building plans memorized for this machine, if that's what you're asking.
+AARON
+The plans don't need to be memorized, just extracted.
+RICHARD
+From what, you?
+Aaron picks up a small random piece of wreckage out of he snow.
+AARON
+From this.
+RICHARD
+Woah... You want to rebuild the ship that crashed here?
+AARON
+Can you do it?
+MIKE
+That's impossible, you can't build something like a ship with a printer - even this fancy Tourist printer.
+Richard takes the piece of metal from Aaron and stares at it for a moment.
+CALLIE
+You can't really do this can you, Richard?
+MIKE
+There's no way!
+RICHARD
+Maybe...
+Richard places the metal on a scanning device and sits down at the computer. He types for a few moments before adjusting the scanner. The others just watch, as if they're about to see a magician pull a rabbit out of his hat.
+MIKE
+Well, Richard?
+RICHARD
+The data... it's all there. But it's just so...
+CALLIE
+It's so what?
+RICHARD
+Dense. I mean, I can't even visualize what this structure would look like.
+AARON
+But you have a complete plan to send to the printer?
+RICHARD
+(nodding in disbelief at the computer screen)
+Uh huh.
+MIKE
+Seriously? Well do it! Let's make ourselves a Tourist ship! Can you imagine what they'll say when we show up in that!
+RICHARD
+It's not that simple I'm afraid. Something this large and complex will take a very long time.
+MIKE
+Like how long?
+RICHARD
+It's hard to say. Days, maybe a week?
+MIKE
+Well fuck that! Someone will come looking for us long before then, and we'll look pretty fucking suspicious. 
+CALLIE
+Not to mention we didn't exactly bring a weeks worth of supplies.
+RICHARD
+We could get it started and come back for it...
+AARON
+Getting it started is all I ask. You guys don't need to put yourselves at any further risk if you don't want.
+MIKE
+Oh yeah, and then you take off in the only evidence I have that I'm not completely insane here?
+AARON
+Actually, I'll probably need a pilot. If you're not willing, I'll still need to get someone to fly it. 
+CALLIE
+We might be able to fly it, Mike. We just need to keep this a secret somehow.
+MIKE
+Yeah, good luck with that!
+AARON
+Can this setup be made to work underwater, Richard?
+RICHARD
+No, the computer components can't get wet.
+CALLIE
+But they could work under snow?
+RICHARD
+Well if we boxed the computer back up after we sent the instructions to the printer, it could technically run inside a snow hill...
+AARON
+So if we had it print a dome over itself first, we could bury it.
+RICHARD
+Actually, yeah. That could work!
+Richard starts typing on the computer.
+MIKE
+And then what, we go back into town minus one Captain Wheeler and pretend nothings going on for a week?
+CALLIE
+Unless we went somewhere that nobody would ever look for us.
+MIKE
+You want to hide out at Garrot's Den?
+AARON
+No.
+CALLIE
+Somewhere safe and warm, with tons of food.
+MIKE
+Warm? Now I know you're up to something.
+CALLIE
+Just hear me out. I know the Basket is off limits but -
+MIKE
+THE BASKET? We're in enough trouble as it is! You want to go to the Basket? You're nuts!
+Richard stops typing and closes the computer.
+RICHARD
+People go there, Mike. It's not unheard of.
+MIKE
+No they don't. They send the food to us! WE never go to them.
+RICHARD
+How do you think that relationship is maintained? People above your pay grade make trips to the Basket fairly frequently. But the place is huge, we'd totally blend in.
+AARON
+How do we get there?
+MIKE
+You can't just walk in, it's on top of a huge mountain. 
+CALLIE
+No we'd fly in.
+She points back up the hill to the air lift.
+MIKE
+They have crazy defense systems against aircraft. We wouldn't even make it within visual range.
+RICHARD
+Unless somebody fabricated an authorization code...
+CALLIE
+Tell me you can do that!
+RICHARD
+I can do that!
+MIKE
+Are you kidding me? Are you guys actually considering this?
+AARON
+I like this plan. How soon can we prepare the printer?
+RICHARD
+It's all set, ready when you are.
+AARON
+I just need to grab something.
+Aaron walks behind a crate and carefully picks up a broken end cap of section of tubing. Its about the size of his forearm and closed off on the bottom, the top is open with a sharp jagged edge.
+MIKE
+What the hell is that?
+AARON
+It's what's left of Amy.
+RICHARD
+Hold on there, Aaron -
+AARON
+I want to bury her, Richard. She deserves something more than to be disregarded in the snow.
+ 
+RICHARD
+That's fair.
+CALLIE
+We should probably make space for two.
+FADE TO BLACK
+EXT. AIR LIFT PARKED IN THE SNOW - NIGHT
+The engines of the cargo air lift roar and the hulking metal bird rises out of the snow. White and blue lights flash from the underside as the landing gear retracts. 
+Nearby, two grave markers can be seen sticking out of the snow. 
+The cargo lift blows swirls of powdery white snow over the graves as it rises into the air. The blinking lights begin to fade and the graves are left in darkness.
+INT. CARGO AIR LIFT COCKPIT - NIGHT
+Mike and Callie sit illuminated by the pale amber glow of the dashboard lights. A flurry of snow flakes continuously rushes over the windshield, like a relentless barrage of stars against the black sky. Callie yawns and leans against the side window.
+CALLIE
+You got this for a few hours? I need to get some sleep.
+MIKE
+Yeah, it shouldn't take us 4 hours to get there.
+CALLIE
+Don't fly the whole thing, wake me up in 2 hours OK?
+MIKE
+Yeah, sure.
+CALLIE
+I'm serious, Mike. You need sleep too.
+MIKE
+(smirking)
+I said yes, go to sleep.
+Richard leans in through the doorway leading to the passenger area.
+RICHARD
+Doesn't this thing have auto-pilot?
+MIKE
+I never trusted that thing.
+RICHARD
+Why am I not surprised.
+MIKE
+Besides, who's going to answer the radio when they ask why we're approaching?
+RICHARD
+About that, does this thing have a terminal port back here?
+MIKE
+I think so, I never needed it. If there is one, it's on the back wall by the winch controls.
+RICHARD
+Thanks, I'll check.
+MIKE
+What are you going to do?
+RICHARD
+I'll make sure they approve our landing request.
+Richard disappears back through the doorway into the passenger area.
+INT. CARGO AIR LIFT - NIGHT
+Aaron is sitting in almost total darkness, with just the walkway lights casting any illumination in the room. Richard makes his way to the back and discovers the terminal port he needs. He pulls down a control panel cover and types in a few lines of code. As he attaches a small computer terminal to the port he looks up and notices Aaron watching him.
+RICHARD
+I certainly didn't think I'd be doing this 24 hours ago.
+AARON
+Why 24 hours?
+RICHARD
+Yesterday. 24 hours ago was yesterday and I didn't have any idea how crazy this day would be.
+Richard resumes his typing while they speak.
+AARON
+But why 24 hours? This planet doesn't turn away from the sun every 24 hours. That benchmark is completely arbitrary here.
+RICHARD
+Wow, I forgot that's how Earth worked. Could you feel it spinning?
+AARON
+No. It felt the same as here, but the sun would cross the sky. It would rise on one horizon and set on the other. Do you guys even have an east and west here? And for that matter, how is it night? 
+RICHARD
+Our Sun is mechanical, surrounded by electromagnetic fields. We don't know what's going on beyond the innermost fields, but it seems like the machine is powered down for about 8 hours out of every 24.
+AARON
+A mechanical sun? This place just keeps getting weirder.
+RICHARD
+You'll get used to it. You've got plenty of time.
+AARON
+I don't plan on staying.
+RICHARD
+I really hope you find a way back, Aaron. I really do.
+AARON
+But you don't think it's going to happen, do you?
+RICHARD
+The people that made all this, the Tourists, they have all the power here. They say who gets to do what.
+AARON
+No system is flawless. I'm pretty sure they didn't want me arriving the way I did.
+RICHARD
+Well if I were you, I'd count my blessings and find a way to make peace with it. Going back into the center of Tourist town doesn't sound like a winning strategy to me.
+AARON
+Why do you call them Tourists?
+RICHARD
+Seriously? I thought you understood everything after you...
+AARON
+I understand what I am. I understand why it's pointless to try and sleep. I have some knowledge of the technology that brought me here, and who made that possible. What I don't get, is what is this place, and why is it even here?
+Richard stops typing and closes his computer terminal.
+RICHARD
+It's their playground, Aaron.
+AARON
+What's that supposed to mean?
+Richard stands up and steps over to the seat across from Aaron. He continues his explanation while he sits down and buckles himself in.
+RICHARD
+This whole thing, all of it, is a toy to them. They belong to a virtual world of ones and zeroes, but they take their vacations here. A giant Earth simulator complete with accurate physics and dynamic weather. A place where there's just enough chaos to make each day a bit unpredictable, but with immortal bodies to prevent any real risk.
+AARON
+Seems like a lot of effort for a vacation home. And why bring humans into it?
+RICHARD
+I don't think they can print bodies that feel like the real thing.
+AARON
+This one feels pretty real.
+RICHARD
+Exactly, they use copies of actual living bodies as hosts. It's part of the experience for them.
+AARON
+But why not just create randomized templates?
+RICHARD
+For some reason they let the living humans trapped in their park create the randomization. I don't know if they're creative enough to come up with realistic variation on their own.
+AARON
+(nodding, introspective)
+The human race has been reduced to  a character creator for the galaxy's biggest video game.
+RICHARD
+Give us some credit, Aaron. Not all of us are destined to be harvested. We have lives here, with purpose.
+Richard yawns and stretches in his seat.
+AARON
+I'm sorry, I should let you sleep.
+RICHARD
+Yes, thank you. Make sure Mike gets some rest too.
+AARON
+I'll wake Callie to do some flying in an hour.
+RICHARD
+Sounds good.
+FADE TO BLACK
+FADE IN:
+EXT. THE MOUNTAIN TOP BASKET
+The impossibly huge dormant volcano towers over the nearby mountains. It's black outline looms like a headless monster standing waist deep in a pile of jagged rocks. The starless sky soon gives way to the first golden rays of sunlight. The mechanical Sun awakens, transforming the landscape into a jungle covered mountain range, sparkling in the noon day light. A floating glimmer of metal reflects the sunlight, disrupting the perfect blue sky.
+A loud deep alarm sound shatters the peace. Massive turrets half buried in the overgrown hillside spring to life, shaking birds and bushes as they turn to aim at the aircraft. 
+INT. CARGO AIR LIFT COCKPIT - DAY
+Mike is just waking up in the pilot's seat. Callie is flying from the co-pilot's seat while Richard leans in between them to explain their landing credentials.
+CALLIE
+(into the radio)
+That's correct, there are four of us.
+RADIO
+How many are authorized inspectors?
+Callie mutes the radio mic and turns to Richard.
+CALLIE
+How many do I say?
+RICHARD
+Two!
+Callie flips the mic back on.
+CALLIE
+There are two inspectors on board.
+The radio is eerily silent for way too long. Mike leans forward and slowly reaches for the controls. Richard shakes his head at him.
+RADIO
+You are cleared for landing at pad three. Maintain your present course and speed.
+Callie pulls off her headset and collapses back into her seat.
+CALLIE
+Whew! I hate that kind of shit!
+RICHARD
+You did great!
+MIKE
+I was so sure they were about to blast us out of the sky.
+RICHARD
+Nah, they wouldn't dare fire on a surprise inspection crew!
+CALLIE
+Genius! Thanks, Richard!
+MIKE
+Now let's see if we can figure out where pad three is...
+EXT. THE MOUNTAIN TOP BASKET - DAY
+Flying over the ridge that marks the lip of the dormant volcano reveals a deep lush green bowl of vegetation. Huge sections are carefully groomed fields of crops, while other areas look like wild forest. The volcanic crater is many miles across and with the exception of a few roads is entirely covered in vegetation.
+The roads don't seem to converge or lead to any sort of village. They all just meander through the countless fields and disappear into the walls of the crater. The cargo air lift makes a wide slow loop around the edge before finding a large gray pad with the number three painted on it. 
+EXT. LANDING PAD THREE - DAY
+The square landing pad is anchored to the edge of the crater wall, and accessible by a tunnel leading into the lava rock. There's a short railing around the edges, and a few landing lights at the corners. Callie expertly drops the cargo air lift in the center of the pad and powers down the engines. The doors open on the cockpit and passenger areas almost simultaneously.
+Three figures in bright red robes wait at the mouth of the tunnel. They step out into the sunlight as the crew climbs out of their aircraft. The two clearly pregnant women and a man extend their arms, palms up to greet their guests.
+MALE GREETER
+Welcome! I hope your flight was comfortable.
+RICHARD
+It was fine, thanks. 
+CALLIE
+Actually, it was quite long. Can you point me to the restroom?
+FEMALE GREETER 1
+Of course, follow me.
+MALE GREETER
+And if the rest of you don't mind, we'll be heading this way.
+CALLIE
+I'll catch up with you guys in a minute!
+Callie is led to the left down a hallway, while the Male Greeter takes Mike, Richard and Aaron through a doorway on the far wall. The other Female Greeter shuts the door behind them. 
+INT. LANDING PAD TUNNELS
+The tunnels are just lit enough to make the damp walls shine. None of them bother to use the rusty hand rails as they make their way deeper into the rock.
+They follow the Male Greeter down cement stairs through the the lava rock to a large metal door. The Greeter opens the door for them and steps aside to let them pass.
+MALE GREETER
+Please excuse the mess, we didn't know you were coming.
+RICHARD
+Its no problem. 
+INT. PRISON BLOCK - DAY
+The doorway leads to a metal catwalk extending a few hundred feet past rows of iron cell doors. There is open area in the middle, revealing a second level of cells below them. Beyond the open area is an identical row of cells, like the ones in front of them. Most of the cages are empty, but a few have prisoners sitting on benches, reading or eating. Two skylights at either end of the room provide most of the light. 
+MIKE
+What's all this?
+The Greeter has moved to the back of the line, and now pulls out a dangerous looking blaster from his robe.
+AARON
+Are you kidding me?
+MALE GREETER
+We didn't get a chance to prepare proper accommodations. But anyone capable of stealing aircraft and forging authorization codes should be prepared to spend a night or two behind bars, no?
+RICHARD
+WHAT?
+Mike starts to reach for his side arm but the Greeter is quick to stop him.
+MALE GREETER
+Just put that on the floor for now, OK? You wouldn't want to get shot in the head by a security turret, would you?
+The Greeter motions to a weapon mounted on the ceiling in the center of the room. 
+MIKE
+I'm a Split Rock City cop you idiot. My badge is right here on my jacket! You can't do this!
+MALE GREETER
+I do hope you don't try anything stupid. That gun is completely automated, and will prevent any violence.
+Mike turns slowly to see the turret aiming at him and carefully places his weapon on the floor.
+RICHARD
+There must be some mistake! Why would we steal anything?
+MALE GREETER
+I'm sure the motives of your actions will be revealed in good time. For now I must ask you to enter that open cell.
+AARON
+(sighing)
+Another day, another cell.
+RICHARD
+Your superiors will hear about this!
+MIKE
+I can't believe I let you guys talk me into this.
+The men are led at gun point to the open cell a few dozen feet down the walkway. Once inside the Greeter presses a button on a device in his belt and a heavy iron door slides shut.
+RICHARD
+How long do you plan on keeping us locked up?
+MALE GREETER
+That is not my decision.
+MIKE
+You can't just keep us in here!
+MALE GREETER
+I'm afraid I must. Please behave yourselves and food will be delivered shortly.
+MIKE
+I don't want food, I want a lawyer!
+MALE GREETER
+Food is all I can offer you. Either you earn it or you don't.
+RICHARD
+Wait, what do you mean by that?
+The Greeter says nothing more. He turns and walks away, picking up Mikes pistol on his way to the exit.
+End Act 2</Text>
+        </Document>
+        <Document ID="39">
+            <Title>Act 3</Title>
+            <Text>
+ACT 3
+INT. JAIL CELL - DAY
+The jail cell is a concrete 20 foot square space, with a toilet and sink at one end. There are 4 twin beds along both walls, and a table with 4 chairs in the middle. Richard and Aaron gravitate towards individual beds and sit down. Mike is pacing.
+MIKE
+This is just fucking fantastic.
+RICHARD
+Relax, Mike. I'm sure we'll be set free soon. This is just a misunderstanding.
+MIKE
+No it's not! They know exactly what's going on, and we're going to rot in here for it!
+RICHARD
+They don't know everything, but I'm sure they're listening to see if we give them anything.
+MIKE
+(to Aaron)
+And you! What do you have to say for yourself!
+AARON
+Hey, this wasn't my idea!
+MIKE
+Oh don't you dare blame Callie for this mess! And where the hell is she, anyway?
+RICHARD
+She said she had to go to the bathroom and they took her a different way.
+MIKE
+Probably to the female cell block.
+RICHARD
+That'd be my guess.
+INT. PRISON BLOCK - DAY
+The door to the cell block creaks open and two men wearing bright blue robes enter the room. One of them carries a white tray of fruit and vegetables. The other is escorting him with a large blaster in his hands. They round the end of the open area and walk up to the cell door housing Mike, Aaron and Richard. The Armed Guard presses a button on the device on his belt and the cell door opens.
+ARMED GUARD
+Stand back for food service.
+RICHARD
+(standing up)
+Hey, when are we going to get to talk to someone in charge?
+MIKE
+I want my lawyer already!
+ARMED GUARD
+Remain seated for delivery.
+INT. JAIL CELL - DAY
+The guard raises his weapon at Mike and Richard re-takes his seat on the bed. Mike sits down at the table. After a moment the man with the food tray enters and sets the meal down on the table. Without a word or even making eye contact, he turns and walks back out of the cell. The Armed Guard closes the door and the two of them march back out of the room.
+MIKE
+Did you see that thing on his belt?
+RICHARD
+Yeah, what of it?
+MIKE
+If we could get that from him we could get out of here.
+RICHARD
+Don't be ridiculous. He'd shoot you dead before you made it to the door.
+MIKE
+But Aaron could make it.
+AARON
+Oh now wait a second-
+RICHARD
+That's a terrible idea, Mike.
+MIKE
+No listen! Aaron could rush the guard while I take out the food service guy. Aaron grabs the gun, takes out the guard and the turret. You grab the door controller and we're on our way to spring Callie!
+AARON
+I'd get shot same as you, no thanks!
+MIKE
+You can take it, you'll be fine!
+AARON
+It's not happening, I've been shot enough lately! 
+MIKE
+Oh come on, that was one bullet in the leg! And see, you're fine!
+AARON
+It still hurts like hell, and I'm sure the guard won't be aiming at my leg!
+RICHARD
+It is unlikely you'll be seriously injured, Aaron.
+MIKE
+See, even the computer geek likes this plan!
+RICHARD
+Well I didn't say I liked it, but I do think it might work.
+AARON
+Well I fucking hate it, and I think there must be a better way.
+MIKE
+If you come up with a better plan, I'd like to hear it.
+RICHARD
+In the mean time we should probably eat. If they heard any of that, we're not getting another meal soon.
+MIKE
+Aw fuck, do you think they're listening?
+RICHARD
+(grabbing an apple)
+I would.
+Mike spins a chair around and joins Richard at the table.
+MIKE
+Well, if we get the chance we should take it.
+Mike grabs a nectarine off the platter and bites into it.
+RICHARD
+You want anything Aaron? It's actually quite good.
+Aaron takes a seat at the table but doesn't take any food.
+AARON
+I'm not hungry.
+CROSS FADE:
+INT. JAIL CELL - NIGHT
+The plate of fruit and vegetables is now pits and peels. The room is dark, Mike and Richard are lying in their beds. Aaron still sits at the table, unchanged. The only lights are small walkway lights at the edges of the open area in the middle of the cell block, and a small night light over the sink.
+Slowly a small dim shaft of light begins to trickle through the skylights at either end of the cell block. After a few moments the light brightens, and the shafts of light begin to fill the room. Richard stirs in his bed. Soon the noon-day sun is pouring into the cell block. 
+Aaron sighs and shakes his head at the rapid change in lighting. 
+RICHARD
+What's going on?
+AARON
+I'm never going to get used to that.
+Richard sits up and stretches.
+RICHARD
+What, the morning light?
+AARON
+It's not morning light. The sunlight here is high noon or nothing. I was never much of a morning person, but I already miss seeing the sunrise. 
+RICHARD
+What was it like?
+AARON
+The sky would grow pale blue at one edge, long before the sun would come up. Birds would start chirping, the world would come alive with first few rays as edge of it broke over the horizon. The tops of hills would catch it first, glowing gold and orange as it climbed into the sky.
+MIKE
+(turning over in his bed)
+All right love birds, knock it off. It's too early for that poetry bullshit.
+RICHARD
+But after breakfast is OK then?
+MIKE
+Can it, Richard. There's only so much I can take in here.
+RICHARD
+You're more of a morning person than Mike I think, Aaron.
+Mike sits up and tosses his blanket aside. 
+MIKE
+How can you guys be making jokes and shit? We're in a god damned prison cell, and we don't even know where Callie is?
+The cell block door opens and Callie comes walking through with a wild haired man in a green robe. She has changed into a bright yellow robe.
+AARON
+Found her.
+MIKE
+What? 
+Mike turns around and sees Callie and the green robed man walking up to their cell.
+MIKE
+Holy shit, Callie! Where've you been?
+BENJAMIN
+So this must be your brother?
+CALLIE
+(to Benjamin)
+Yes! That's him!
+CALLIE
+(to Mike)
+I'm so glad we found you! I was so worried!
+ 
+Benjamin uses his device to unlock the door. Mike rushes over and throws arms around Callie. Richard stands up and heads toward the doorway.
+MIKE
+I'm fine, you don't need to worry about me. What happened to you? And what's with the robe?
+CALLIE
+Its part of the disguise!
+RICHARD
+And who's this guy?
+BENJAMIN
+Hi, I'm Benjamin. But any friends of Callie can call me Benji.
+Aaron suddenly stands up at the table.
+AARON
+Benjamin? Benjamin Gold?
+BENJAMIN
+Do I know you, man?
+AARON
+I used to watch your show! I'm a huge fan! I can't believe it, you're actually here!
+CALLIE
+Aaron, how would you have seen Benji's show?
+AARON
+You look just like him! You're THE Benjamin Gold!
+CALLIE
+He really is!
+BENJAMIN
+Yeah, man! But seriously, nobody calls me Benjamin Gold here. It's Benji now.
+AARON
+How did you get here? What are you doing here? I mean, I have so many questions!
+BENJAMIN
+That's cool, that's cool. But we should probably be going. People are gonna start asking questions I don't have the answers to.
+The four of them head out the door, after Benjamin. 
+CALLIE
+How could you possibly know who Benji is, Aaron?
+AARON
+He's from Earth!
+CALLIE
+WHAT?
+Benjamin leads them through a few more locked doors and down to a guard post. The man seated at the desk is wearing a bright blue robe. He pulls out a clipboard and sets it on the counter. 
+PRISON GUARD
+Are you signing out all three of them?
+BENJAMIN
+Yep, don't worry. I'll have 'em home for dinner.
+Benjamin grabs the pen and fills out the form on the clipboard.
+PRISON GUARD
+Excuse me?
+BENJAMIN
+Just kidding, friend! They'll be fine under my care. 
+PRISON GUARD
+Apply the monitors and they're all yours.
+The guard hands Benjamin three bracelets for his prisoners. Benjamin takes them and distributes them to Mike, Aaron and Richard.
+BENJAMIN
+Sorry guys, house rules.
+MIKE
+(to Callie)
+Do you have one?
+CALLIE
+Nope, I'm part of Benji's TV crew!
+MIKE
+What?
+BENJAMIN
+I'll explain on the way, follow me!
+INT. MONORAIL PLATFORM - JAIL STOP
+The platform is very small, about the size of a two stall garage. There are obvious turrets mounted on the ceiling, and warning signs on he walls displaying &quot;Authorized Personnel Only&quot;. There are bright red and blue lines painted on he the concrete floor, leading to the waiting monorail cars. 
+Benjamin leads them to the front doors and waves them in.
+BENJAMIN
+After you!
+MIKE
+Oh no, I insist.
+Mike stops and waits for Benjamin to go first.
+BENJAMIN
+Right on, that's cool.
+Benjamin heads into the front of the first car and takes a seat on one of the sideways facing benches. Callie and Richard are followed by Aaron and eventually Mike.
+INT. MONORAIL CAR
+The tan and blue interior is worn from years of use. A map of the rail system is on the side wall, just before the middle of the car. The car is separated front and back by a set of metal bars, with a locked gate for access. The seats in back half of the car are fitted with prisoner transport restraints. 
+Once inside, the doors automatically close and a voice speaks over the speakers in the ceiling.
+SPEAKERS
+Please state your destination.
+BENJAMIN
+District One.
+SPEAKERS
+Voice pattern authorized. Enjoy your ride, Benjamin.
+BENJAMIN
+Thank you!
+MIKE
+Did you just thank a robot?
+BENJAMIN
+Aw she's nice once you get to know her!
+Callie laughs.
+MIKE
+What did you mean, you're part of a TV show?
+CALLIE
+Benji gave me a job on his cooking show!
+MIKE
+That makes no sense. Have they tried your cooking?
+Callie starts laughing so hard she almost falls out of her seat. Benjamin smiles but contains himself.
+BENJAMIN
+Its a formality, brother. She's avoiding the cell just like you.
+AARON
+Benjamin-
+BENJAMIN
+Benji.
+AARON
+Sorry, Benji. I can't believe I'm having this conversation. You gotta tell me what's going on here!
+BENJAMIN
+I was invited, probably just like you!
+AARON
+I know, we all saw it on TV! But then what?
+BENJAMIN
+They offered me a job designing meals for the starving, and I could demand any and all the fresh ingredients I want! You should see my kitchen, its totally insane!
+AARON
+Just like that? You were granted a house and a job and power to bust people out of jail on your word?
+BENJAMIN
+Oh no, man. This was after a few years preparing meals in the bubble outside of Chicago. 
+CALLIE
+Your show was an actual thing on Earth?
+BENJAMIN
+Oh yeah, of course. But that was years ago.
+AARON
+Years? You mean A year, right?
+BENJAMIN
+Nope, I spent years getting this gig. Eventually they brought me to this city. They started me out with a pretty sweet pad at first, but after a few more years in here I got upgraded. A few decades later when my cooking show got famous here, they gave me class 1 status.
+CALLIE
+Because your show is amazing!
+AARON
+Ha! Decades! I saw you do a live show just last year, and you looked exactly the same!
+BENJAMIN
+I don't know what they told you about moving here, man. I don't want to blow your mind.
+AARON
+What are you saying?
+MIKE
+I think he's a Tourist.
+BENJAMIN
+(ignoring Mike)
+The trip here isn't just to a distant location, it's to a distant time. We're actually...
+AARON
+In the future, I know.
+BENJAMIN
+So its like, they can arrive here at whatever time they want. You left after I did, but you could've beaten me here...
+AARON
+(nodding)
+...or arrived decades later.
+BENJAMIN
+You got it, man.
+RICHARD
+How long have you been here?
+BENJAMIN
+Too long.
+End Act 3</Text>
+        </Document>
+        <Document ID="40">
+            <Title>Act 4</Title>
+            <Text>ACT 4
+EXT. RESIDENTIAL ZONE, DISTRICT 5 - DAY
+The shuttle emerges from its narrow shaft into a busy residential area. The residential zone is in a massive tunnel several hundred yards across, and packed with tents and corrugated metal shacks. The light is artificially generated, cast from large square panels hung on the ceiling of the cave. 
+The monorail is suspended high above the bustling village offering an incredible view of the chaos. Grey robed children running and playing everywhere. Adults in gray robes standing around talking or pushing carts of food down broken alleyways.
+RICHARD
+What's with all the gray robes?
+CALLIE
+Its an indication of class. Grey is the lowest.
+MIKE
+What's yellow mean?
+BENJAMIN
+It's the fourth caste. You're employable and authorized to rent proper housing.
+AARON
+And gray gets the slums?
+BENJAMIN
+There just isn't enough space to go around, friend.
+RICHARD
+That's stupid, we saw huge areas overgrown with vegetation on our way in. Why don't you build out there?
+BENJAMIN
+Building in the soil is forbidden. It's just for growing.
+EXT. RESIDENTIAL ZONE, DISTRICT 4 - DAY
+The tube continues around a long downward sloping curve to the left. After a while the shacks are replaced with more permanent looking structures. The crowds are thinner and people are wearing yellow robes. 
+MIKE
+(joking)
+Look, Callie! Its your people!
+CALLIE
+Ha, ha. Its going to be your people in a minute.
+MIKE
+What do you mean?
+CALLIE
+We're all going to be wearing yellow for the rest of our stay.
+RICHARD
+Why don't we get green robes, like Benji?
+BENJAMIN
+I'll be switching too. Things are about to change and the folks in the upper castes are going to have a real bad trip. 
+AARON
+How do you know?
+BENJAMIN
+I saw this happen before, and it started just like this.
+EXT. GOVERNMENT ZONE, DISTRICT 3 - DAY
+Benjamin points out the window at the change in scenery outside. The tunnel has opened up into a government district. The building fronts are carved into the tunnel walls with towering pillars and statues. The largest of which is surrounded by throngs of people in yellow robes yelling and holding signs demanding equal rights.
+A row of men in blue robes with rifles blocks the protesters from reaching the top of the wide staircase. In front of the building is a podium where a woman in a red robe is giving a speech. Her voice can't be heard through the glass, but its clearly not soothing the crowd.
+MIKE
+What are they so mad about?
+BENJAMIN
+The lower castes don't get nearly as much opportunity as we do.
+RICHARD
+How so?
+BENJAMIN
+They can't get nice houses, or ride the tram, or even get first pick of the daily harvest.
+MIKE
+Unless they decide to wear red today!
+BENJAMIN
+Even if they could buy a red robe, the color is just to remind people of their place. To actually take advantage of a privilege, you'd be scanned. Impersonating a higher caste is a crime, man.
+MIKE
+Seriously?
+BENJAMIN
+Oh yeah, man. The punishment is starvation.
+AARON
+For how long?
+BENJAMIN
+As long as it takes, weeks.
+AARON
+You mean, until death?
+Benjamin just nods.
+MIKE
+That's fucked up. All this food and you're starving people.
+CALLIE
+What's the punishment for pretending to be in a lower caste?
+BENJAMIN
+I'm not sure, but I hope we don't find out!
+INT. MONORAIL PLATFORM - DISTRICT 1
+The train comes to a stop at an empty platform. This station is covered in white marble tiles. Lighting is provided by a crystal chandelier hanging from the 30 foot tall arched ceiling. There is fine art on the walls, and a wide hallway extending down a set of stairs on the far side of the room..
+SPEAKERS
+Arriving - District 1. Please confirm.
+BENJAMIN
+Confirm. Five passengers, getting off.
+Benjamin stands up and motions the party to the opening door.
+MIKE
+So this is where the green robes live?
+BENJAMIN
+Nah, this is where people who come to visit us arrive.
+CALLIE
+Or where you go when you want to leave?
+BENJAMIN
+Oh we don't leave. Normally.
+Benjamin leads the group down the stairs to a parking lot inside a wide tunnel.
+EXT. COMMERCIAL ZONE - DISTRICT 1
+The tunnel is wide and paved with glistening smooth black asphalt. There are automated kiosks at the sides of the road with small electric carts parked waiting in front.
+Benjamin approaches a larger vehicle with smooth contours and polished pearl exterior. He presses a device on his belt and all four gull-wing doors open.
+AARON
+Fancy!
+The five of them take their seats in the car and the doors automatically close. 
+INT. BENJAMIN'S CAR
+The curvy theme of the outside of the vehicle is repeated on the inside. Two rows of three black comfortable seats face each other from the front and back of the car. 
+BENJAMIN
+(to the console)
+Drive home.
+The vehicle silently pulls out of its parking spot and begins to glide down the road.
+RICHARD
+This must've been expensive.
+BENJAMIN
+Oh, probably. I don't really see any bills.
+MIKE
+What do you mean?
+BENJAMIN
+In this part of town, we just request stuff we want and those little carts will bring it to us.
+CALLIE
+Anything?
+BENJAMIN
+Well within reason. I couldn't get a spaceship or anything crazy like that.
+AARON
+Do you want a spaceship?
+BENJAMIN
+Can you imagine, how cool would that be!
+AARON
+(smiling)
+I don't know what they told you about us man, I don't want to blow your mind...
+RICHARD
+Aaron, I don't think-
+AARON
+He's cool, Richard. 
+BENJAMIN
+What are you guys talking about? 
+MIKE
+Nothing. Absolutely nothing.
+CALLIE
+Oh come on, Mike. He saved us!
+MIKE
+And how did that happen exactly?
+BENJAMIN
+I saw you guys arrive on the platform and I hoped I could turn it into an opportunity to leave. I made a special request to meet you but they actually denied me. That's when I knew something was up. So I used my option to hire another crew member, I can pick anyone I want no questions asked.
+MIKE
+And what, Callie... You just said yes?
+CALLIE
+The officer was leading me to jail when she got the message. I heard a voice that sounded like Benji. Worst case scenario seemed like an opportunity to escape. So yeah, I said yes.
+The car slows to a stop at the bottom of a flight of stairs leading to a pair of double doors between two statues.
+BENJAMIN
+This is it!
+INT. BENJAMIN'S HOUSE
+The doorway into Benjamin's house opens to a wide hallway with tall arched ceilings. The white walls are covered with art and fountains. The floor is polished white stone with black diamond tiles spaced one foot apart.
+Benjamin places his hand on a scanner next to the door frame as they enter. 
+BENJAMIN
+Whoops, wouldn't want to forget to turn off the alarms!
+RICHARD
+Wow, Benji! Nice place you got here!
+BENJAMIN
+Oh this is just the tunnel to my house. The real house is on the other side.
+CALLIE
+I'm starting to wish I really was on your show, Benji!
+MIKE
+This is insane! They just gave this to you?
+BENJAMIN
+Wait until you see the view!
+EXT. BENJAMIN'S HOUSE - DAY
+Benjamin's house is built into the exterior of the volcanic mountain, overlooking a long green slope surrounded by rolling jungle hills. The outside is a lavish resort including multiple pools, hot tubs, seating areas and wide spaces for entertaining. The lower green space has a tennis court and a golf driving range. Beyond that is a fantastic garden filled with rows of raised beds of vegetables, a greenhouse and an orchard of fruit trees.
+Benjamin pushes open the wide glass double doors from the interior entertainment space and leads the group out onto the first tier of the veranda.
+BENJAMIN
+You guys make yourselves comfortable, I'm going to make us some lunch!
+FADE OUT
+FADE IN
+EXT. BENJAMIN'S HOUSE - DAY
+The group is sitting around a wide rectangular table covered in clean plates, half eaten dishes and empty glasses.
+RICHARD
+That was fantastic, Benji! Thank you!
+AARON
+Honestly, it was better than I imagined!
+BENJAMIN
+I'm glad you liked it! I only hope I can do it again for you soon!
+CALLIE
+I can't wait to see what's for dinner!
+BENJAMIN
+Oh, we're not going to be here for dinner. 
+MIKE
+Why not?
+BENJAMIN
+I'm afraid you guys arrived at a real bad time, and it's only getting worse.
+AARON
+You mean the protests?
+BENJAMIN
+Yeah, there'll be a curfew tonight. We need to be in position before that happens.
+MIKE
+Position?
+BENJAMIN
+I have some bad news for you guys. The air craft you came in is probably already being dismantled for parts.
+MIKE AND CALLIE
+WHAT!
+RICHARD
+Why?
+BENJAMIN
+They were never going to let you guys go. Only children and Tourists ever leave this place. But I know of a way to get out of here.
+AARON
+Why are children allowed to leave?
+BENJAMIN
+You don't want to know. But the good news is that the crawlers head out early every morning, and I know one of the drivers!
+MIKE
+You mean the food delivery trucks?
+BENJAMIN
+Yeah, they call 'em crawlers, because of the treads. 
+MIKE
+I get it, and we're going to stow away on one?
+BENJAMIN
+That's the idea, but we need to blend in. I got us some yellow robes so we will look the part.
+AARON
+I'm sorry, but I really do want to know what happens to the children.
+BENJAMIN
+(sighs and pauses)
+It's possible for a child of the lowest caste to be considered for a yellow robe if the parents are willing to part with one or more of their other children.
+CALLIE
+Part with?
+BENJAMIN
+We harvest the crops from the fields. The Tourists come for the kids.
+CALLIE
+What do they do with them?
+Benjamin shakes his head and stands up.
+BENJAMIN
+Who will help me with the dishes?
+RICHARD
+Oh you've done quite enough, sir! What can I do to help?
+BENJAMIN
+Lets gather all this stuff up for the dish machine.
+MIKE
+I bet you have quite the dish washer.
+BENJAMIN
+Who said anything about washing?
+MIKE
+What do you mean?
+BENJAMIN
+Come on, check this out!
+Benjamin grabs a few dishes from the table and leads Mike and Richard into the kitchen. Aaron and Callie remain and collect the rest of the dishes.
+CALLIE
+What was that about?
+AARON
+I'm sure when he's able to talk about it, we'll know.
+They finish gathering the remaining dishes in their arms and head into the kitchen.
+INT. BENJAMIN'S KITCHEN
+The kitchen looks more like a Television set than an actual kitchen. There are multiple stoves, ovens, microwaves, toasters and preparation surfaces. Several refrigerators are lined up against one wall next to a curious looking appliance with a metal lid on top. Mike is holding the top open and motioning them over.
+MIKE
+Guys seriously, watch this.
+Aaron and Callie set their dishes on the counter next to the appliance and look inside. A few dishes are set in the bottom of the empty boxy interior. Food has splashed the walls and collected in clumps in the bottom.
+BENJAMIN
+Nah, just toss 'em in.
+AARON
+Well let me at least rinse some of the heavy stuff off first.
+BENJAMIN
+Don't bother, just throw everything in there.
+Aaron carefully starts placing one plate at a time next to the dishes already in the box. Benjamin moves in to speed things up.
+BENJAMIN
+Like literally, man. Toss everything in the machine.
+Benjamin uses his forearm like a broom to sweep the entire stack of dishes into the device. The plates and glasses smash in a glorious crash on the bottom. He wipes his arm with a rag on the counter and then throws in the rag.
+BENJAMIN
+OK, Mike close the lid!
+Mike drops the lid and steps back. Benjamin places his palm on the top of the appliance.
+BENJAMIN
+(overly deliberate tone)
+Process dishes.
+DISH MACHINE
+Right away, Benjamin!
+The machine hums for a moment while Richard and Mike watch Aaron and Callie for their expressions.
+DISH MACHINE
+Dish cycle complete.
+BENJAMIN
+Thank you!
+Mike opens the lid and with a motion of his hand, invites Callie to look inside.
+CALLIE
+Where did everything go?
+BENJAMIN
+I have no idea!
+MIKE
+Isn't that nuts!
+AARON
+Wait, so you just throw all your dishes away with every meal?
+BENJAMIN
+And new ones arrive on little carts whenever I ask for replacements!
+AARON
+Isn't that horribly wasteful?
+BENJAMIN
+They're printed in a machine somewhere in the bowels of this mountain.
+AARON
+But all the lost energy...
+BENJAMIN
+Energy is something they never seem to be short on in this world.
+RICHARD
+Benefits of living inside a giant solar power collector. We don't need to burn anything for energy.
+AARON
+I don't suppose you'd find any oil underground anyway.
+RICHARD
+Why would there be oil underground?
+AARON
+Never mind.
+BENJAMIN
+(laughing)
+You sure you don't want to explain dinosaurs, Aaron?
+AARON
+These guys already think I'm crazy.
+BENJAMIN
+Alright then, we should probably get going. There should be a box of robes through that door in the morning room. Just grab one to take with you, don't put it on until we get out of the green part of town.
+RICHARD
+Why not?
+BENJAMIN
+I could explain the situation with Callie, but after that it gets tricky.
+MIKE
+Why would you want to leave all of this luxury, Benji?
+BENJAMIN
+I want to help you guys bring justice to the Tourists.
+MIKE
+Who said anything about that?
+CALLIE
+I may have said something about Aaron and his mission...
+MIKE
+How much did you tell him?
+BENJAMIN
+I didn't need to hear much more than that.
+RICHARD
+You have issues with the Tourists too?
+BENJAMIN
+You could say that. Also the timing really has to be now.
+MIKE
+Why now?
+BENJAMIN
+If the unrest grows any worse among the lower casts, all of this will be destroyed soon.
+RICHARD
+It could get that bad?
+BENJAMIN
+Worse, people in my caste will be killed.
+MIKE
+But I bet you can't be killed.
+BENJAMIN
+That's true, but that doesn't make it better.
+MIKE
+I knew it!
+BENJAMIN
+This body came with a price tag I'll never pay off, brother.
+AARON
+What do you mean?
+BENJAMIN
+We weren't meant to live this long. Watching countless cycles of injustice and payback from the sidelines has made me desperate to find an end.
+CALLIE
+Benji, no!
+BENJAMIN
+Not suicide, Callie; but a change. I need to make a real meaningful change that stops this madness. I can't do that trapped as a TV cooking show host.
+AARON
+So what do you want to do?
+BENJAMIN
+I need to get out of here, man. I need to find others who share my goals and make a stand. When I saw your cargo air lift come over the mountains I thought maybe something was happening. Outsiders never arrive in one of those. Not ever. Either you were sneaking in, or sneaking something out, or both. I needed to be a part of it.
+Aaron grabs Benji's hand and shakes it.
+AARON
+Welcome to the crew, Benji!
+BENJAMIN
+Thanks, Aaron. Now lets get you guys your things.
+Benjamin leads the group out of the room through the door to the morning room.
+End Act 4
+</Text>
+        </Document>
+        <Document ID="41">
+            <Title>Act 5</Title>
+            <Text>
+ACT 5
+INT. MONORAIL CAR
+This train ride doesn't offer the same stunning views of the city. The trip is entirely underground through a dark tunnel. Although, the train car is in slightly better condition than the one they used to leave the prison. The seats show less wear and there's no gate separating the front from the back. The same map is attached to the wall, showing all the connected stops in the city. On the wall next to it, someone has written in dark black marker &quot;Equal rights for D. 4!&quot;
+BENJAMIN
+All right, guys. This is where we put the robes on.
+Benjamin and the others pull yellow robes out from bags and back packs Benjamin provided and begin putting them on.
+RICHARD
+So why yellow?
+BENJAMIN
+Yellow gets to ride the train. Any higher caste is going to be on the wrong side of this.
+MIKE
+On the wrong side of what exactly?
+Benjamin points to the graffiti on the wall.
+BENJAMIN
+That.
+INT. MONORAIL PLATFORM - DISTRICT 4
+The train comes to a stop at a crowded platform. Hundreds of panicked people in yellow robes are massed at the edge. As the doors open, they begin pushing their way in before anyone gets a chance to leave. Alarms are sounding from somewhere in the distance. Whistles are being blown and people are screaming in the streets above the platform. It's extremely difficult for anyone to get out.
+AARON
+Now what?
+BENJAMIN
+Keep going! We have to get off here!
+The crew manages to force their way between the yellow sea of robes pushing their way onto the train. Mike barely escapes before the doors close behind him.
+MIKE
+What the fuck is going on?
+BENJAMIN
+It's started! Follow me!
+Benjamin tries to lead them up the stairs but suddenly armed guards appear. They're grabbing people and slapping handcuffs on anyone they can get a hold of.
+CALLIE
+The elevator!
+Callie points to an open elevator door where the last few people have just exited. Richard runs over and sticks his arm in the closing doors, forcing them back open.
+RICHARD
+Hurry up! Come on!
+With some effort, they manage to force their way through the crowd moving toward the train and get inside the elevator car. There is a single pair of buttons, up and down on the wall. Mike hits the up arrow a few times as the door closes behind Aaron.
+CALLIE
+Why are the police arresting people?
+BENJAMIN
+The people in yellow robes have virtually no rights. So every few 40 or 50 years they rise up and wreck the place.
+AARON
+40 or 50 years? Didn't you say you were here for the last one?
+BENJAMIN
+This is my third one. I don't plan on sticking around to see how it goes.
+EXT. RESIDENTIAL ZONE, DISTRICT 4 - DAY
+The glass doors of the elevator slowly reveal a war-like battle ground as it slowly rises to street level. People are running everywhere. Red and blue lights are flashing through the smoke of burning garbage and vehicles. The voices of yelling demonstrators can be heard over the din of whistles and small arms fire. The doors open.
+BENJAMIN
+OK, this way!
+Benjamin charges out into the fray looking backward at his new friends to make sure they keep up. He leads them between a few parked cars through an alleyway. A few people in yellow robes run past them headed the other direction. As they exit the alley and enter the next street, a car explodes in front of a shop on the corner. In the other direction a bug-like police car races over a bridge and squeals around the next intersection.
+BENJAMIN
+To the bridge!
+They follow Benjamin as he hustles down the street.
+CALLIE
+Isn't there anything we can do to help?
+BENJAMIN
+This is too big for us.
+MIKE
+But if we could get to the cargo lift, we have some pretty heavy weaponry. 
+BENJAMIN
+You'd be seen as outsiders, they don't want your help.
+At the bridge Benjamin hops the rail and goes heads down the concrete embankment.
+EXT. COMMERCIAL ZONE BRIDGE, DISTRICT 4 - DAY
+A channel of water flows through the center of town here, normally used for irrigation. Currently it's choked with garbage and debris.
+CALLIE
+Gross! What is all this?
+BENJAMIN
+Normally it's clear water for the crops. Now it's our escape route.
+MIKE
+Oh hell no!
+BENJAMIN
+It's going to suck for sure, man. But our changes of getting out are better in the water. 
+Benjamin takes his robe off and tosses it under the bridge.
+BENJAMIN
+Unless you want to see the inside of that jail cell again, you should ditch the robes and follow me.
+Another police car rumbles over the bridge above them with its sirens blaring.
+RICHARD
+I'm with you!
+Richard tosses his robe next to Benjamin's and steps into the water. Without much further hesitation, Aaron, Mike and Callie all do the same.
+EXT. IRRIGATION CHANNEL, DISTRICT 4 - DAY
+The water is flowing the same way the crew is heading, making for an easy swim. At a few points they pass barricades and groups of protesters being arrested, but nobody seems to notice Benjamin or the others. Eventually the flow stops at a large dam lined with railings and a ladder on one side. 
+BENJAMIN
+(in a hushed voice)
+Careful, don't get sucked into the grate.
+Benjamin steps out by the ladder and helps each member of the crew out of the water, one at a time.
+MIKE
+Now what?
+BENJAMIN
+Near the top of this ladder is a garage where they load the morning harvest. My original plan was to hide with the day laborers in the garage to blend in. But now I'm sure nobody's up there.
+CALLIE
+So what do we do?
+BENJAMIN
+Can any of you drive a crawler?
+MIKE
+How hard can it be?
+RICHARD
+Oh no, you can't be serious!
+Mike starts to climb the ladder.
+MIKE
+I got this, don't worry about it.
+INT. CRAWLER HANGAR - DAY
+A crawler is about the size of four dump trucks and rolls along on tank treads. Connected to the back of each crawler is a massive cargo trailer almost twice as big as the crawler itself. The sprawling crawler hangar houses dozens of these colossal machines, each one silently waiting for duty in a row curving beyond their sight line.
+A lamp over a doorway marked &quot;Office&quot; is the only light offered while the machines are out of service.
+AARON
+Damn, those things are huge!
+MIKE
+This is going to be awesome!
+Mike runs up to the nearest crawler and climbs up the ladder to the driver's side door.
+MIKE
+It's locked. I think I need a key code.
+RICHARD
+I might be able to get past it...
+Richard begins to climb the ladder after Mike.
+CALLIE
+Come on, we'll probably find the codes in the office
+BENJAMIN
+That sounds right.
+Benjamin, Callie and Aaron head over to the office door and pause. The door is slightly ajar, and a few random papers are spilling out through the doorway. 
+AARON
+Should we knock?
+CALLIE
+I don't think anybody's home.
+INT. CRAWLER HANGAR OFFICE - DAY
+Entering the room reveals the place is in complete disarray. Cabinet drawers are pulled open, garbage cans are knocked over. A computer screen is smashed and flickering over a broken keyboard. On the far side of the room is a metal door with a small vent in the top. A female voice can be heard from the other side.
+FEMALE VOICE
+Is anyone out there?
+BENJAMIN
+Uh, yeah. Do you work here?
+FEMALE VOICE
+YES! GET ME OUT OF HERE!
+BENJAMIN
+Oh, are you locked in?
+Benjamin goes over and tries the handle, it doesn't move.
+FEMALE VOICE
+There's a key in the desk drawer!
+Aaron is standing nearest to the desk, but the drawer is missing. It appears like the drawer was pulled completely out of the desk and thrown somewhere. 
+AARON
+Hold on, we're looking for it!
+FEMALE VOICE
+It's in the drawer.
+BENJAMIN
+We're looking for the drawer, the place is kinda trashed.
+AARON
+Why are you locked in there?
+FEMALE VOICE
+My boss tricked me. He said it was for my own good and left.
+BENJAMIN
+He was probably right, it's a real mess out here right now.
+FEMALE VOICE
+Who are you people?
+CALLIE
+We don't belong here, we need a ride home.
+FEMALE VOICE
+Where's home?
+AARON
+Far away from here.
+FEMALE VOICE
+Get me out of here and I'll take you wherever you want.
+AARON
+Deal.
+ 
+Benjamin, Aaron and Callie begin sifting through the papers and garbage on the floor looking for the contents of the drawer.
+BENJAMIN
+What's your name?
+FEMALE VOICE
+Danni. You?
+BENJAMIN
+Benji.
+DANNI
+That's funny, you sound like Benjamin Gold.
+BENJAMIN
+You watch my show?
+DANNI
+No way, it's you?
+CALLIE
+I think I found it!
+She emerges from behind a tipped over chair holding up a small brass key. Aaron and Benjamin step aside as she walks up to the door and inserts the key into the lock. The key turns and the door swings open revealing a young woman in a yellow robe.
+Her hair is held back with a greasy rag, and her robe is marked with splotches of the same gray grease. She has tattoos of gears on her forearms and a subtle crazed look in her eyes.
+DANNI
+Thanks, I was- oh wow! This place is trashed!
+CALLIE
+Are you OK? 
+DANNI
+I'm fine, thanks for springing me.
+BENJAMIN
+No problem, man. Do you know where the key codes are for the crawlers?
+ 
+DANNI
+You were going to steal one, weren't you!
+BENJAMIN
+Well not originally-
+AARON
+But now yes, absolutely. Can you help us?
+The woman pauses for a moment to consider the situation. The sound of sirens is getting louder. She nods and marches past them.
+YOUNG WOMAN
+I'm drivin.
+INT. CRAWLER HANGAR - DAY
+Mike is standing at the base of the nearest crawler ladder. At the top, Richard has a control panel open. He's examining the wiring and contemplating the connections.
+YOUNG WOMAN
+Get offa that rig before you hurt yourself!
+Aaron, Callie and Benjamin are following the young woman storming across the open space between the office and the crawler.
+MIKE
+Who the hell is this now?
+YOUNG WOMAN
+My name is Danni and you've got zero seconds to get your hands of my rig.
+RICHARD
+Hey woah, I was just-
+YOUNG WOMAN
+Don't care. Get down!
+Richard climbs down the ladder and lets Danni pass.
+MIKE
+Where did you find this peach?
+CALLIE
+She was locked in the office, but I think she can drive one of these.
+Danni slams the control panel shut and types a few numbers on the keypad to open the driver's door. She swings it wide open and steps inside.
+DANNI
+All aboard who's coming aboard. I ain't got time for chit chat.
+The crew quickly scrambles up the ladder and into the spacious cab.
+INT. CRAWLER CAB - DAY
+Since the vehicle is designed for long haul delivery, there is plenty of room for everyone. Behind the captains chair is a small lounge with bench seats, a refrigerator, small table and a Television. Next to the driver's seat is a wide bench facing the front windshield and built in computer console.
+MIKE
+Wow, this is not at all what I expected the inside of one of these to look like.
+RICHARD
+Me neither!
+DANNI
+Wake up Tony.
+CRAWLER DASHBOARD
+Good evening, Danni. Will you be needing a full diagnostic?
+BENJAMIN
+Oh cool, you named it!
+DANNI
+Yeah, we go way back.
+CRAWLER DASHBOARD
+I'm sorry, I didn't understand that.
+DANNI
+No diagnostic today, Tony. I need full manual control. 
+CRAWLER DASHBOARD
+I'm sorry, I need an authorization code for that.
+DANNI
+Manual override code, Alpha, Tango, Seven, Niner, Omega. 
+CRAWLER DASHBOARD
+Authorization accepted. Please drive safely.
+DANNI
+Heh, fat chance. 
+Danni punches a few buttons on the dashboard and grabs a wide metal throttle in the center console.
+MIKE
+You know how to get out of here?
+DANNI
+There's two and a half exits big enough for Tony. None of them easy.
+ 
+AARON
+Two and a half?
+DANNI
+Buckle up bitches! It's gonna be a bumpy ride!
+Danni grabs the wheel with her left and urges the throttle forward with her right. The giant machine lurches forward sending Richard, Benjamin and Callie into their seats in the lounge. Mike and Aaron grab hold of the handles on the dashboard and settle into the bench seat next to Danni.
+Danni works the pedals with her feet to adjust the tank-like treads underneath the beast, allowing her to turn out of the space where it had been parked. She deftly swerves around the other parked crawlers and rolls out the other end of the hangar.
+INT. CRAWLER TUNNEL - DAY
+The end of the tunnel opens up into a wide staging area where lanes are marked with yellow paint and cones. Today, the area is also filled with police vehicles forming a barricade in front of a massive closed gate. The sides of the gate have yellow flashing warning lights, even brighter than the red and blue ones flashing on the squat round police cars.
+INT. CRAWLER CAB - DAY
+MIKE
+That's not good.
+DANNI
+Looks like we're on to door number two!
+Without dropping speed, Danni swerves right then hard left aiming the truck directly into a rock wall.
+AARON
+Shit, Danni! The wall!
+DANNI
+Relax, I'm positioning the trailer.
+INT. CRAWLER TUNNEL, EXIT 1 - DAY
+The maneuver allows the trailer to angle back towards the police barricade. Danni throws it into reverse and backs the massive container on wheels over the tops of the nearest police cars. Danni leans out her side window to watch the cars get squashed under the incredible weight.
+INT. CRAWLER CAB - DAY
+DANNI
+(laughing maniacally)
+I always wanted to do that.
+She pushes the shifter back into forward and completes her u-turn. This time she picks a tunnel branch marked with red paint on the ground. There are small black and white pylons sticking out of the roadway and a low hung sign that reads &quot;NO CRAWLERS&quot;. 
+MIKE
+I don't think we can fit down there, Danni.
+DANNI
+Watch me.
+The truck easily smashes through the pylons and destroys the sign hanging from the roof of the tunnel. The road slopes downward and ends at a giant metal wall. There is a car-sized gate in the middle with a small guard shack on the side where the gate arm is controlled.
+AARON
+Danni, you can't fit through there. 
+DANNI
+Those red fuck holes think they own the damn place.
+Danni pushes the throttle forward and blasts the air horn. It makes a deafening echo in the tunnel as she races toward the metal wall. 
+MIKE
+Danni!
+A man in a blue robe jumps out of the guard shack and waves his arms at the approaching crawler. It's clear that she doesn't intend to stop. He dodges runs to the side as she plows over a second set of black and white pylons.
+EXT. COMMERCIAL ZONE - DISTRICT 2
+The smooth black asphalt streets of District 2 are lined with small trees and shrubs. There are small businesses and stores separated by wide green spaces. Some of the shops have colorful electric vehicles parked out front. A few people can be seen walking between the shops and the cars. At the end of the nearby intersection is a massive metal wall sealing off the next district.
+Instantly the wall buckles and folds under the impact of a speeding crawler. Shattering glass, metal shrapnel and sparks shower down onto the roadway, spilling out into the intersection. The nearby pedestrians scream and run away.
+INT. CRAWLER CAB - DAY
+Danni is laughing nearly uncontrollably as she drives over the remains of the metal wall. Mike and Aaron are gripping the dashboard handles and watching in shock as she continues plowing down the street.
+MIKE
+Please tell me you knew that wall would fold!
+DANNI
+Of course I knew! This used to be a shortcut until the babies in District 2 said the crawler traffic bothered 'em.
+AARON
+So where does it go now?
+DANNI
+Just past their fancy new atrium we'll get to the edge of the corn fields. That's where Exit 2 is.
+EXT. COMMERCIAL ZONE - DISTRICT 2
+The crawler makes a right turn at a car sized intersection, pulling the trailer up over the curb and destroying two parked cars. The over sized vehicle barrels down the street, crushing anything it its path.
+INT. CRAWLER CAB - DAY
+Danni, Mike and Aaron bounce slightly in their seats as another vehicle is flattened under the mighty weight of the crawler.
+AARON
+Are you doing that on purpose?
+DANNI
+Maybe.
+MIKE
+How far to the exit?
+DANNI
+Shit. That's it.
+Danni points to the end of the road where barricades have been set up. Red and blue lights can be seen reflecting down the tunnel behind the metal wall. 
+DANNI
+Well, that's not gonna work.
+MIKE
+We can't just smash through the exit?
+DANNI
+Nah, those walls are super thick reinforced blast doors. Nothing goes through without permission.
+AARON
+Didn't you say two and a half exits?
+DANNI
+(grinning)
+Yes. Yes I did.
+EXT. COMMERCIAL ZONE - DISTRICT 2
+The crawler suddenly takes a hard left, dragging the trailer over a utility pole and a small tree. The road goes over a small bridge barely wide enough for the crawler. It crushes the railings on both sides as it plows on down the street next to the irrigation channel.
+INT. CRAWLER CAB - DAY
+MIKE
+Now where are we going?
+DANNI
+This waterway leads to an atrium they just finished building at the edge of the district. They haven't gotten around to setting up security there yet.
+AARON
+The atrium has an exit big enough for this thing?
+DANNI
+It's about to.
+MIKE AND AARON
+Oh shit.
+EXT. ATRIUM, DISTRICT 2 - DAY
+The atrium is a giant glass dome that sits right inside the volcano wall. Half of the dome is outside, the other half inside the District 2 Commercial Zone. A u-shaped road makes an arc in front of the main doors for dropping off guests. A few people are standing outside, admiring the view down the hill into the recently renovated commercial zone. 
+In the center of the main roadway, a crawler is racing towards them blasting it's horn. It ignores the u-shaped roadway and plows through the bushes and flowers in the middle. The people hesitate in disbelief for a moment before running to the sides to get out of the way.
+INT. CRAWLER CAB - DAY
+Danni is calmly pulling the air horn and rolling directly at the front doors of the huge glass dome. 
+AARON
+Danni, what's on the other side of the atrium.
+DANNI
+I'm not sure, they don't allow us in there.
+MIKE
+So what makes you think it's an exit?
+DANNI
+Half.
+AARON
+What do you mean, half?
+DANNI
+Well it definitely goes outside but after that...
+MIKE
+What?
+DANNI
+Tony can handle it.
+EXT. ATRIUM, DISTRICT 2 - DAY
+The massive crawler rips up the freshly placed sod leading up to the front doors of the atrium and plows through a row of cement benches at the top of the driveway. The glass entry explodes into a flurry of glass shards like a Christmas ornament hit with a baseball bat. 
+The interior of the atrium is a huge dome, with tranquil walkways, fountains, trees and hanging plants everywhere. The crawler effortlessly obliterates the delicately constructed planters and displays. Without slowing down, the machine blasts its way to the far side of the dome where a gorgeous marble veranda overlooks the jungle valley below.
+INT. CRAWLER CAB - DAY
+MIKE
+This is not a jump you can make, Danni!
+DANNI
+Everybody hold on to something!
+EXT. VOLCANIC MOUNTAIN SIDE - DAY
+It's pouring rain outside the atrium overlooking the jungle. The water is rushing down the hillside over the glass dome and pooling on the veranda. The structure is built nearly six stories above the ground, where huge palm trees sway in the breeze. 
+The crawler violently emerges through the glass exterior of the atrium and turns sharply once on the terrace outside. The edges of the platform are supported directly by the hillside itself, where it seems the crawler is headed. The marble railing poses no obstacle as the truck crushes the last barrier between it and the outside world.
+The hillside is steep and wet, sending the incredibly over sized rig into a wild slide towards the bottom of the valley. Screams can be heard from inside as it pulls the giant trailer over the edge with it and descends into the muddy chaos below.
+INT. CRAWLER CAB - DAY
+MIKE
+Are you insane!
+DANNI
+No! Today I'm free!
+Danni turns the wheel to avoid one of the larger trees and shoves the throttle forward. The smaller trees snap like twigs as she makes her way over to the main road. 
+EXT. VOLCANIC MOUNTAIN ROAD - DAY
+Water is rushing down the road where Danni makes her entrance. A small rail on the outside of the curve is crushed flat as she pulls onto the concrete ramp.
+A sign on the side of the road reads &quot;North Station One Mile - Be Prepared to Stop for Inspection&quot;
+INT. CRAWLER CAB - DAY
+AARON
+Inspection stop? Is that going to be a problem?
+MIKE
+Why would it? Nothing else has slowed us down!
+DANNI
+Actually it might be a problem. The North Entry has big gun to prevent any outsiders from approaching The Basket.
+MIKE
+How big of a gun?
+DANNI
+Big. Too big even for Tony.
+AARON
+What are we doing still rushing towards it then?
+DANNI
+I'm betting it's facing outward. It's always facing outward.
+MIKE
+Oh great, so they'll just wait for us to pass before they kill us.
+AARON
+(smiling)
+They'll be shooting us in the trailer.
+DANNI
+And I don't care if we lose the trailer.
+The road bends around a giant boulder and the North Station comes into view. 
+EXT. BASKET, NORTH STATION - DAY
+There is a weigh station on the side with yellow lights directing trucks for inspection. Several cop cars are lined up across the main gate with their lights on. The huge security turret is facing back up the road and fires a blast directly at the approaching crawler! 
+INT. CRAWLER CAB - DAY
+A boulder explodes into a million shards of rock that ricochet off of the crawler's tough exterior. One of the stray fragments smacks he windshield, leaving a small crack.
+MIKE
+Shit, that's not shooting at the trailer!
+AARON
+What do we do?
+DANNI
+Grab that red handle on the floor between us!
+Aaron spots a long metal rod on the floor next to his feet.
+AARON
+This?
+DANNI
+Pull it now!
+Aaron grabs the two foot long metal rod and pulls it upright with both hands. A loud metallic groan followed by heavy clunking sounds echoes from behind the cab. Danni grabs the wheel with both hands and swerves hard left, then straightens out again before slamming on the breaks. 
+The unhooked trailer rolls past the cab and races down the road out of control. Danni swerves back in line behind it and shoves the throttle forward again.
+Another blast from the security turret hammers the trailer now in front of the approaching crawler. Danni keeps the throttle down and shoves the whole thing over the line of police cars blocking the gate. The trailer hops up over the retaining wall and crashes into the security turret, sending it smashing into the gate controller.
+Danni arcs around the destruction and smashes through the gate. She blasts the air horn twice and continues down the open road, leaving the smoking wreckage of the North Station behind them. 
+EXT. BASKET, NORTH STATION - DAY
+The rain picks back up as the crawler rumbles down the road into the rocky foothills of the giant volcanic mountain. The sun in the center of the sky dims and soon the world plunges into darkness, leaving only the glow of the burning station glistening off of the wet concrete and the sound of distant sirens as reminders that the crawler was ever here.
+End Act 5</Text>
+        </Document>
+        <Document ID="42">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+The Sphere
+“Food”
+
+by
+
+Patrick Cavender
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patrick Cavender
+Patrick@pc-3d.com</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="43">
+            <Title>s01e03</Title>
+        </Document>
+        <Document ID="44">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+The Sphere
+“Food”
+
+by
+
+Patrick Cavender
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patrick Cavender
+Patrick@pc-3d.com</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="45">
+            <Title>Act 1</Title>
+            <Text>ACT 1
+
+End Act 1
+</Text>
+        </Document>
+        <Document ID="46">
+            <Title>Act 2</Title>
+            <Text>ACT 2
+
+End Act 2</Text>
+        </Document>
+        <Document ID="47">
+            <Title>Act 3</Title>
+            <Text>
+ACT 3
+
+End Act 3</Text>
+        </Document>
+        <Document ID="48">
+            <Title>Act 4</Title>
+            <Text>ACT 4
+
+End Act 4
+</Text>
+        </Document>
+        <Document ID="49">
+            <Title>Act 5</Title>
+            <Text>
+ACT 5
+
+End Act 5</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

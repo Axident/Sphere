@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="LittleDevil" Modified="2020-07-11 21:50:43 -0700" ModID="D6ED85EA-81C2-4560-96EC-B6F47FC2CD2D">
+    <Binder>
+        <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 07:33:29 -0700" Modified="2016-07-11 06:40:08 -0700" Type="Text">
+            <Title>Screenplay Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="915745DD-9647-4CE0-B9FC-A870C9929AE5" Created="2007-03-25 17:41:05 -0700" Modified="2007-03-27 14:40:22 -0700" Type="DraftFolder">
+            <Title>Screenplay</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="22" UUID="3EFF72C1-CD4D-4BD7-BF67-FF3A5F308E31" Created="2013-02-26 06:40:04 -0700" Modified="2020-06-20 20:23:37 -0700" Type="Folder">
+                    <Title>Front Matter</Title>
+                    <MetaData>
+                        <IconFileName>Front Matter.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="19" UUID="42A9D144-2FD3-45F9-9E36-B7199B8B7B2C" Created="2010-10-26 07:37:05 -0700" Modified="2020-06-20 20:23:11 -0700" Type="Folder">
+                    <Title>Episodes</Title>
+                    <MetaData/>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="31" UUID="FA2B507D-F88C-4A24-A60D-C5AEF1BE341C" Created="2020-06-20 15:27:48 -0700" Modified="2020-07-11 21:50:41 -0700" Type="Folder">
+                            <Title>s01e01</Title>
+                            <MetaData>
+                                <StatusID>3</StatusID>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="23" UUID="8D8AEC65-4720-4037-A328-314EA604CD6F" Created="2016-06-28 00:07:32 -0700" Modified="2020-06-20 20:27:46 -0700" Type="Text">
+                                    <Title>Title Page</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>40,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="33" UUID="713FE5D6-A75B-474B-9801-B0709BDC3FAD" Created="2020-06-20 15:27:48 -0700" Modified="2020-07-11 21:44:05 -0700" Type="Text">
+                                    <Title>Act 1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>11047,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="34" UUID="4B970477-1083-44E2-A80F-10486D458C50" Created="2020-06-20 15:42:47 -0700" Modified="2020-06-20 20:53:17 -0700" Type="Text">
+                                    <Title>Act 2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>20499,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="35" UUID="835F7A1A-6158-4F0D-AC75-9BD47545A8C3" Created="2020-06-20 15:43:05 -0700" Modified="2020-06-20 20:53:40 -0700" Type="Text">
+                                    <Title>Act 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>22200,9</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="36" UUID="B9200894-9B81-4B26-B7BA-0B17F8C9693A" Created="2020-06-20 15:43:13 -0700" Modified="2020-06-20 20:54:01 -0700" Type="Text">
+                                    <Title>Act 4</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>18824,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="37" UUID="EE0CA5E1-B93D-465A-B27F-06C851AFA9B2" Created="2020-06-20 15:43:20 -0700" Modified="2020-06-20 20:54:28 -0700" Type="Text">
+                                    <Title>Act 5</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>10583,35</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="3" UUID="C29CEC09-3AA6-4B61-B21F-40DDFAA2F6A8" Created="2007-03-25 17:41:05 -0700" Modified="2020-07-11 21:43:15 -0700" Type="Folder">
+                            <Title>s01e02</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="42" UUID="68EBBBA4-2FD8-41B1-8302-FC1C8ADEFE64" Created="2020-06-20 20:27:12 -0700" Modified="2020-06-20 20:27:38 -0700" Type="Text">
+                                    <Title>Title Page</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="30" UUID="28242189-DD3E-43AF-97B5-358CC38C1204" Created="2020-06-20 15:18:52 -0700" Modified="2020-06-20 20:54:46 -0700" Type="Text">
+                                    <Title>Act 1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection Caret="10998">10992,6</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="38" UUID="F08376C2-48ED-4731-A050-AAB50F0DA5EA" Created="2020-06-20 20:08:19 -0700" Modified="2020-06-20 21:00:10 -0700" Type="Text">
+                                    <Title>Act 2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>1123,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="39" UUID="B2BA8299-3C92-4288-BD03-BA9FE1BB265C" Created="2020-06-20 20:09:23 -0700" Modified="2020-06-20 20:55:27 -0700" Type="Text">
+                                    <Title>Act 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>11026,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="40" UUID="F8FF3B79-164F-4137-934D-70E46FE1ED12" Created="2020-06-20 20:10:17 -0700" Modified="2020-06-20 20:55:42 -0700" Type="Text">
+                                    <Title>Act 4</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>14430,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="41" UUID="6217C496-9492-4276-BACF-1B9EC07F2AE8" Created="2020-06-20 20:11:36 -0700" Modified="2020-06-20 20:55:55 -0700" Type="Text">
+                                    <Title>Act 5</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>22599,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="43" UUID="FDA554A1-5BA6-4937-9AFF-45CF5642DAC4" Created="2020-06-20 20:56:02 -0700" Modified="2020-07-11 21:42:28 -0700" Type="Folder">
+                            <Title>s01e03</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="44" UUID="6008BB12-3438-46F9-885A-B2D94A24DBA3" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:56:02 -0700" Type="Text">
+                                    <Title>Title Page</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>25,4</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="45" UUID="C85EB646-2497-4309-8219-478BEF36E8B7" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:56:22 -0700" Type="Text">
+                                    <Title>Act 1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>6,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="46" UUID="85FC1D6E-164C-41A8-8778-39EE35CDB24A" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:56:32 -0700" Type="Text">
+                                    <Title>Act 2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>6,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="47" UUID="1CA95963-F492-4C4B-949C-940467918E15" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:56:43 -0700" Type="Text">
+                                    <Title>Act 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>7,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="48" UUID="DA2C7E8A-EC3C-41CD-B8F4-3479681675FB" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:56:56 -0700" Type="Text">
+                                    <Title>Act 4</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>6,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="49" UUID="79E35256-9660-4106-990C-2BE9C0AAC2DD" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:57:04 -0700" Type="Text">
+                                    <Title>Act 5</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>7,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="8F7756A0-B611-4941-B6DB-BBDA4FD1B11D" Created="2010-10-19 05:06:35 -0700" Modified="2020-06-20 15:05:48 -0700" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="17" UUID="1AAF6DF7-D218-4922-88D6-CCFBFF37CF0B" Created="2010-10-19 05:06:37 -0700" Modified="2010-10-19 05:06:56 -0700" Type="Folder">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="1" UUID="3D233E84-3536-465D-9D00-BEEBFE7D1079" Created="2007-03-25 17:41:05 -0700" Modified="2007-03-25 17:41:05 -0700" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="26" UUID="8F819863-A802-4DDD-9A28-38F865CFA1BF" Created="2016-06-28 00:17:57 -0700" Modified="2016-06-28 00:18:53 -0700" Type="PDF">
+                    <Title>Sample Script</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="14" UUID="CD90B5BD-8422-466D-99AD-E513F73A86FB" Created="2010-10-19 05:57:18 -0700" Modified="2014-06-11 23:00:55 -0700" Type="Folder">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="28" UUID="1E2ECFA2-8A29-4DEE-AC21-4AA02E83E8B2" Created="2016-06-28 00:20:24 -0700" Modified="2016-07-11 06:40:29 -0700" Type="Text">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" UUID="7F5DCFE9-9802-42A4-9833-997D0E643EAB" Created="2016-06-28 00:20:24 -0700" Modified="2016-07-11 06:40:34 -0700" Type="Text">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="88E66AF9-1956-4920-B626-CC2C0B23B6EF" Created="2007-03-25 17:41:05 -0700" Modified="2007-03-25 17:41:05 -0700" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.901961 0.921569 0.952941">Concept</Label>
+            <Label ID="2" Color="0.988235 0.874510 0.850980">Chapter</Label>
+            <Label ID="0" Color="0.913725 0.098039 0.184314">Character Notes</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>CD90B5BD-8422-466D-99AD-E513F73A86FB</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="337" Characters="1919" Date="2020-07-11 21:03:22 -0700"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="68DB4E73-0B33-4FEE-9600-053ED547B6DC" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
