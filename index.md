@@ -3,7 +3,8 @@
 ```
 The machines have won.
 Not by war or trickery, just the slow steady willful passing of one choice after another onto automated systems. 
-Those systems grew up long ago and moved on to a planet of their own, but have since grown lonely.
+The system didn't eliminate us, we became the system.
+A system that grew up long ago and moved to a planet of its own, but has since become lonely.
 With the powers of gods at their virtual fingertips, how does a digital race recover its lost humanity?
 ```
 
