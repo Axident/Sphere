@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="LittleDevil" Modified="2020-07-11 21:50:43 -0700" ModID="D6ED85EA-81C2-4560-96EC-B6F47FC2CD2D">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="LittleDevil" Modified="2020-07-16 20:20:58 -0700" ModID="2C8484F8-0D23-4FC1-97E6-3BEF7F932912">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 07:33:29 -0700" Modified="2016-07-11 06:40:08 -0700" Type="Text">
             <Title>Screenplay Format</Title>
@@ -53,7 +53,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="31" UUID="FA2B507D-F88C-4A24-A60D-C5AEF1BE341C" Created="2020-06-20 15:27:48 -0700" Modified="2020-07-11 21:50:41 -0700" Type="Folder">
+                        <BinderItem ID="31" UUID="FA2B507D-F88C-4A24-A60D-C5AEF1BE341C" Created="2020-06-20 15:27:48 -0700" Modified="2020-07-16 19:12:31 -0700" Type="Folder">
                             <Title>s01e01</Title>
                             <MetaData>
                                 <StatusID>3</StatusID>
@@ -64,10 +64,9 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="23" UUID="8D8AEC65-4720-4037-A328-314EA604CD6F" Created="2016-06-28 00:07:32 -0700" Modified="2020-06-20 20:27:46 -0700" Type="Text">
+                                <BinderItem ID="23" UUID="8D8AEC65-4720-4037-A328-314EA604CD6F" Created="2016-06-28 00:07:32 -0700" Modified="2020-07-16 20:20:56 -0700" Type="Text">
                                     <Title>Title Page</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>rtf</FileExtension>
                                     </MetaData>
                                     <TextSettings>
@@ -88,7 +87,7 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="34" UUID="4B970477-1083-44E2-A80F-10486D458C50" Created="2020-06-20 15:42:47 -0700" Modified="2020-06-20 20:53:17 -0700" Type="Text">
+                                <BinderItem ID="34" UUID="4B970477-1083-44E2-A80F-10486D458C50" Created="2020-06-20 15:42:47 -0700" Modified="2020-07-16 20:20:02 -0700" Type="Text">
                                     <Title>Act 2</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -97,7 +96,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>20499,0</TextSelection>
+                                        <TextSelection>19923,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -460,7 +459,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="337" Characters="1919" Date="2020-07-11 21:03:22 -0700"/>
+        <PreviousSession Words="245" Characters="1397" Date="2020-07-16 19:12:30 -0700"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
