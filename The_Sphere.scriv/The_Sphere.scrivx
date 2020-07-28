@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="LittleDevil" Modified="2020-07-16 20:20:58 -0700" ModID="2C8484F8-0D23-4FC1-97E6-3BEF7F932912">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="LittleDevil" Modified="2020-07-27 22:55:18 -0700" ModID="B2864A39-7C65-4F64-9A72-70657DC81105">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 07:33:29 -0700" Modified="2016-07-11 06:40:08 -0700" Type="Text">
             <Title>Screenplay Format</Title>
@@ -109,7 +109,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>22200,9</TextSelection>
+                                        <TextSelection Caret="8164">8160,4</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -122,7 +122,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>18824,0</TextSelection>
+                                        <TextSelection Caret="14045">14041,4</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -135,7 +135,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>10583,35</TextSelection>
+                                        <TextSelection Caret="8951">8947,4</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -175,7 +175,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection Caret="10998">10992,6</TextSelection>
+                                        <TextSelection Caret="2706">2702,4</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -188,7 +188,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>1123,0</TextSelection>
+                                        <TextSelection Caret="13105">13101,4</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -201,7 +201,6 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>11026,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -214,11 +213,11 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>14430,0</TextSelection>
+                                        <TextSelection Caret="13923">13919,4</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="41" UUID="6217C496-9492-4276-BACF-1B9EC07F2AE8" Created="2020-06-20 20:11:36 -0700" Modified="2020-06-20 20:55:55 -0700" Type="Text">
+                                <BinderItem ID="41" UUID="6217C496-9492-4276-BACF-1B9EC07F2AE8" Created="2020-06-20 20:11:36 -0700" Modified="2020-07-27 22:22:42 -0700" Type="Text">
                                     <Title>Act 5</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -227,7 +226,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>22599,0</TextSelection>
+                                        <TextSelection>10413,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -254,7 +253,7 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="45" UUID="C85EB646-2497-4309-8219-478BEF36E8B7" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:56:22 -0700" Type="Text">
+                                <BinderItem ID="45" UUID="C85EB646-2497-4309-8219-478BEF36E8B7" Created="2020-06-20 20:56:02 -0700" Modified="2020-07-27 22:54:29 -0700" Type="Text">
                                     <Title>Act 1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -263,7 +262,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>6,0</TextSelection>
+                                        <TextSelection>14024,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -459,7 +458,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="245" Characters="1397" Date="2020-07-16 19:12:30 -0700"/>
+        <PreviousSession Words="948" Characters="5091" Date="2020-07-27 20:21:25 -0700"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
