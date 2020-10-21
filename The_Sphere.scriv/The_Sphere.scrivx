@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="LittleDevil" Modified="2020-07-27 22:55:18 -0700" ModID="B2864A39-7C65-4F64-9A72-70657DC81105">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="Area51" Modified="2020-10-20 21:03:45 -0700" ModID="3E7B476A-24BE-43BE-950C-879330C7F939">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 07:33:29 -0700" Modified="2016-07-11 06:40:08 -0700" Type="Text">
             <Title>Screenplay Format</Title>
@@ -156,10 +156,9 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="42" UUID="68EBBBA4-2FD8-41B1-8302-FC1C8ADEFE64" Created="2020-06-20 20:27:12 -0700" Modified="2020-06-20 20:27:38 -0700" Type="Text">
+                                <BinderItem ID="42" UUID="68EBBBA4-2FD8-41B1-8302-FC1C8ADEFE64" Created="2020-06-20 20:27:12 -0700" Modified="2020-10-20 21:03:43 -0700" Type="Text">
                                     <Title>Title Page</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>rtf</FileExtension>
                                     </MetaData>
                                     <TextSettings>
@@ -217,7 +216,7 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="41" UUID="6217C496-9492-4276-BACF-1B9EC07F2AE8" Created="2020-06-20 20:11:36 -0700" Modified="2020-07-27 22:22:42 -0700" Type="Text">
+                                <BinderItem ID="41" UUID="6217C496-9492-4276-BACF-1B9EC07F2AE8" Created="2020-06-20 20:11:36 -0700" Modified="2020-10-20 21:02:30 -0700" Type="Text">
                                     <Title>Act 5</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -226,7 +225,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>10413,0</TextSelection>
+                                        <TextSelection>8934,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -253,7 +252,7 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="45" UUID="C85EB646-2497-4309-8219-478BEF36E8B7" Created="2020-06-20 20:56:02 -0700" Modified="2020-07-27 22:54:29 -0700" Type="Text">
+                                <BinderItem ID="45" UUID="C85EB646-2497-4309-8219-478BEF36E8B7" Created="2020-06-20 20:56:02 -0700" Modified="2020-07-28 22:00:25 -0700" Type="Text">
                                     <Title>Act 1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -262,11 +261,11 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>14024,0</TextSelection>
+                                        <TextSelection>14034,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="46" UUID="85FC1D6E-164C-41A8-8778-39EE35CDB24A" Created="2020-06-20 20:56:02 -0700" Modified="2020-06-20 20:56:32 -0700" Type="Text">
+                                <BinderItem ID="46" UUID="85FC1D6E-164C-41A8-8778-39EE35CDB24A" Created="2020-06-20 20:56:02 -0700" Modified="2020-07-30 21:54:01 -0700" Type="Text">
                                     <Title>Act 2</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -275,7 +274,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>6,0</TextSelection>
+                                        <TextSelection>8928,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -288,7 +287,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>7,0</TextSelection>
+                                        <TextSelection>10,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -458,7 +457,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="948" Characters="5091" Date="2020-07-27 20:21:25 -0700"/>
+        <PreviousSession Words="0" Characters="0" Date="2020-10-20 21:01:02 -0700"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
